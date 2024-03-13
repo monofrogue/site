@@ -1,0 +1,44 @@
+body {
+    font-family: Cochin;
+}
+
+header, footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    position: relative;
+    display: inline-block; /* Changed from inline to inline-block */
+}
+
+.dropdown {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px;
+    z-index: 1;
+}
+
+nav ul li:hover .dropdown {
+    display: block;
+}
+
+.dropdown li {
+    display: block;
+    margin-right: 0; /* Override the margin for dropdown items */
+}
+
+.dropdown li a {
+    display: block; /* Makes the link fill the entire space of the li */
+    color: #000; /* Text color */
+    padding: 10px 0; /* Add some padding */
+    text-decoration: none; /* No underline */
+}
