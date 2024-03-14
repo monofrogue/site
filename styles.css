@@ -7,6 +7,9 @@ body {
     line-height: 1.6;
 }
 
+.title {
+    text-align: center;
+}
 header, footer, .main_section {
     background-color: #fff;
     border-radius: 10px;
