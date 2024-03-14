@@ -5,8 +5,9 @@ body {
     line-height: 1.6;
 }
 
-header, footer {
+header, footer, .main_section {
     background-color: #fff;
+    border-radius: 10px;
     text-align: center;
     padding: 1em;
 }
