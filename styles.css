@@ -7,9 +7,8 @@ body {
     line-height: 1.6;
 }
 
-.title {
+.Title {
     text-align: center;
-    margin: auto;
 }
 header, footer, .main_section {
     background-color: #fff;
