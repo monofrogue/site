@@ -1,6 +1,7 @@
+
 body {
     font-family: Cochin;
-    font-size: 1.6em;
+    font-size: 1.3em;
     background-color: #89ab70;
     padding: 20px;
     line-height: 1.6;
@@ -11,6 +12,7 @@ header, footer, .main_section {
     border-radius: 10px;
     text-align: center;
     padding: 1em;
+    margin: 1em;
 }
 
 nav ul {
@@ -28,6 +30,7 @@ nav ul li {
     position: absolute;
     background-color: #f1f1f1;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    border-radius: 10px;
     padding: 12px;
     z-index: 1;
 }
