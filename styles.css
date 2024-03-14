@@ -9,6 +9,7 @@ body {
 
 .title {
     text-align: center;
+    margin: auto;
 }
 header, footer, .main_section {
     background-color: #fff;
