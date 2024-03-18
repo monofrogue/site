@@ -51,6 +51,7 @@ nav ul li:hover .dropdown {
 .dropdown li {
     display: block;
     margin-right: 0; /* Override the margin for dropdown items */
+    left: 100%;
 }
 
 .dropdown li a {
