@@ -10,10 +10,16 @@ body {
 .Title {
     text-align: center;
 }
-header, footer, .main_section {
+header, footer {
     background-color: #fff;
     border-radius: 10px;
     text-align: center;
+    padding: 0.6em;
+    margin: 1em;
+}
+.main_section {
+    background-color: #fff;
+    border-radius: 10px;
     padding: 0.6em;
     margin: 1em;
 }
