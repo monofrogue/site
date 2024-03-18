@@ -63,6 +63,7 @@ nav ul li:hover .dropdown {
 .tooltip {
     position: relative;
     display: inline-block;
+    color: #a2ba92;
     width: 20px;
     text-align: left;
     margin-left: -30px;
