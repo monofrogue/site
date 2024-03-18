@@ -53,3 +53,31 @@ nav ul li:hover .dropdown {
     padding: 10px 0; /* Add some padding */
     text-decoration: none; /* No underline */
 }
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    text-align: left;
+    margin-left: -30px;
+}
+
+.tooltip .tooltiptext {
+visibility: hidden;
+width: 200px;
+background-color: #a2ba92;
+color: #fff;
+border-radius: 6px;
+padding: 5px 5px;
+position: absolute;
+z-index: 1;
+bottom: 0%;
+left: 50%;
+margin-left: -60px;
+opacity: 0;
+}
+
+.tooltip:hover .tooltiptext {
+visibility: visible;
+opacity: 1;
+}
