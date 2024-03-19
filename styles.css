@@ -59,6 +59,7 @@ nav ul li:hover .dropdown {
     color: #000; /* Text color */
     padding: 10px 0; /* Add some padding */
     text-decoration: none; /* No underline */
+    left: 100%
 }
 
 .tooltip {
