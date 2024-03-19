@@ -27,7 +27,7 @@ header, footer {
 nav {
     background-color: #e6e6e6; /* Light grey background */
     border-radius: 10px; /* Consistency with other elements */
-    padding: 10px 0; /* Vertical padding */
+    padding: 10px 0.6em; /* Vertical padding */
     margin: 1em 0; /* Ensure it doesn't touch other elements vertically */
 }
 
