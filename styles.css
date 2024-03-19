@@ -32,6 +32,7 @@ nav ul {
 nav ul li {
     position: relative;
     display: inline-block; /* Changed from inline to inline-block */
+    left: 100%;
 }
 
 .dropdown {
@@ -42,6 +43,7 @@ nav ul li {
     border-radius: 10px;
     padding: 12px;
     z-index: 1;
+    left: 100%;
 }
 
 nav ul li:hover .dropdown {
