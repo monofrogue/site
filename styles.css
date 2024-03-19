@@ -24,14 +24,31 @@ header, footer {
     margin: 1em;
 }
 
+nav {
+    background-color: #e6e6e6; /* Light grey background */
+    border-radius: 10px; /* Consistency with other elements */
+    padding: 10px 0; /* Vertical padding */
+    margin: 1em 0; /* Ensure it doesn't touch other elements vertically */
+}
+
 nav ul {
     list-style-type: none;
     padding: 0;
+    margin: 0;
+    text-align: center;
 }
 
 nav ul li {
     position: relative;
     display: inline-block; /* Changed from inline to inline-block */
+    margin: 0 15px;
+}
+nav ul li a {
+    color: #0056b3; /* A more vibrant blue */
+    padding: 8px 10px; /* Increased padding */
+    text-decoration: none; /* Removes underline */
+    /*font-family: Arial, sans-serif; /* Example of a different font */
+    font-weight: bold; /* Makes the font bold */
 }
 
 .dropdown {
