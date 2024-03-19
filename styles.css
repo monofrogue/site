@@ -46,7 +46,7 @@ nav ul li {
 }
 nav ul li a {
     color: #0056b3; /* A more vibrant blue */
-    padding: 8px 10px; /* Increased padding */
+    padding: 8px 12px; /* Increased padding */
     text-decoration: none; /* Removes underline */
     /*font-family: Arial, sans-serif; /* Example of a different font */
     font-weight: bold; /* Makes the font bold */
