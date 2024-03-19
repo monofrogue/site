@@ -60,6 +60,7 @@ nav ul li a {
     border-radius: 10px;
     padding: 3px;
     z-index: 1;
+    font-size: 0.6em;
 }
 
 nav ul li:hover .dropdown {
