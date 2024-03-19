@@ -42,7 +42,7 @@ nav ul {
 nav ul li {
     position: relative;
     display: inline-block; /* Changed from inline to inline-block */
-    margin: 0 15px;
+    margin: 0 0;
 }
 nav ul li a {
     color: #0056b3; /* A more vibrant blue */
