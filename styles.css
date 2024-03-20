@@ -10,19 +10,22 @@ body {
 .Title {
     text-align: center;
 }
-header, footer {
+header {
     background-color: #fff;
     border-radius: 10px;
     text-align: center;
     padding: 0.3em 0.6em;
     margin: 1em;
 }
-
 footer {
-    font-size: 1em;
-    padding: 0.1em 0.6em;
-    margin: 0em
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    padding: 0.1em 0.3em; /* Reduced padding */
+    margin: 1em; /* Reduced margin */
+    font-size: 0.8em; /* Reduced font size */
 }
+
 .main_section {
     background-color: #fff;
     border-radius: 10px;
