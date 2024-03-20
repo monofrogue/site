@@ -17,6 +17,11 @@ header, footer {
     padding: 0.3em 0.6em;
     margin: 1em;
 }
+
+footer {
+    font-size: 1em;
+    padding: 0.1em 0.6em;
+}
 .main_section {
     background-color: #fff;
     border-radius: 10px;
