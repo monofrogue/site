@@ -17,8 +17,8 @@ header, footer {
     padding: 0.3em 0.6em;
     margin: 1em;
 }
-footer * {
-    margin: 1em; /* Reduced margin */
+footer {
+ 
     font-size: 0.8em; /* Reduced font size */
 }
 
