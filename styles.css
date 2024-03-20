@@ -10,18 +10,14 @@ body {
 .Title {
     text-align: center;
 }
-header {
+header, footer {
     background-color: #fff;
     border-radius: 10px;
     text-align: center;
     padding: 0.3em 0.6em;
     margin: 1em;
 }
-footer {
-    background-color: #fff;
-    border-radius: 10px;
-    text-align: center;
-    padding: 0.1em 0.3em; /* Reduced padding */
+footer * {
     margin: 1em; /* Reduced margin */
     font-size: 0.8em; /* Reduced font size */
 }
