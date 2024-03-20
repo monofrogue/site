@@ -21,6 +21,7 @@ header, footer {
 footer {
     font-size: 1em;
     padding: 0.1em 0.6em;
+    margin: 0em
 }
 .main_section {
     background-color: #fff;
