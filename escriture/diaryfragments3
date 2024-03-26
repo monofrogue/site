@@ -1,1 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" type="image/x-icon" href="../images/pfp.jpg">
+  <link rel="stylesheet" href="../styles.css">
+  <title>Haze</title>
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href=".."><img src="../images/pfp.jpg" alt="monofrogue pfp" width="40" style="vertical-align:middle;border-radius:50%;border:2px solid #000"></a></li>
+        <li><a href="..">Home</a></li>
+        <li><a href="../readingroom">Reading Room</a></li>
+        <li><a href="../escriture">Escriture</a></li>
+        <li><a href="../contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <div class="Title">
+    <h1>Diary Fragments III</h1>
+  </div>
+  <div class="main_section">
+    <h6><i>24.iv</i></h6>
+    <p>I paid up on a twenty-year old bet from Harry today. £200. We’d forgotten to link it to inflation. I’m not complaining.</p>
+    <h6><i>25.iv</i></h6>
+    <p>I’m thinking of trying to learn koine Greek again. Could have done with it today—Rev. J. seems a little confused about 1 Corinthians 14, but I don’t really know enough to argue with him. When I mentioned the idea to Sally, she went ‘hmm’.</p>
+    <h6><i>29.iv</i></h6>
+    <p>Today was a good day.  The rain wouldn’t stop. There was nobody else up on the downs, and water was streaming down the tracks, full of delight. The lavant over at the top of Hensted Farm has appeared, and all the paths are starting to gleam with bare-again chalk.</p>
+    <h6><i>3.v</i></h6>
+    <p>Artingale is dead. He lived in the manor. He was seventy-six. He used to keep grass snakes and frogs in his bedroom, and whenever a snake ate a frog, he would scold it fiercely. I attended three snake funerals. He had a different-coloured hat for every day of the week, but always wore a dark tweed suit. They discovered thirteen identical such suits in his wardrobe yesterday. I met his daughter today. I hadn’t known he had a daughter. I had known that he had a third-class degree and a complete set of Banks’ Florilegium, and that he was fond of toffee. He claimed he was the sexton, but there hasn’t been a sexton on the parish books for decades. He once replaced all the plumbing in his house, for fear that the pipes had caught ash dieback. I don’t know whether I’ll miss him.</p>
+    <h6><i>12.v</i></h6>
+    <p>I saw a water vole today. He ran across the path in front of me towards the pond, and then seemed to think himself hidden behind a sapling as he watched me and chewed something for two minutes or so, before retreating suddenly to his burrow. Sally has christened him Ratty. I said that wasn’t very imaginative, and besides, she hasn’t even seen him, but there’s nothing I can do now.</p>
+    <h6><i>13.v</i></h6>
+    <p>Went to look for Ratty with Sally. Sat for forty minutes by the water’s edge, but without any luck. Probably Sally is particularly disagreeable to water voles. Met some newcomers on the way down. Friendly enough, but we’ll see. I have forgotten their names already.</p>
+    <h6><i>19.v</i></h6>
+    <p>I think I might have overly clever friends. I am not altogether sure I like any of them.</p>
+    <h6><i>20.v</i></h6>
+    <p>Saw Ratty, this time with Sally. We’d barely sat down when she spotted him swimming towards us. He either didn’t notice us or didn’t care about us, and just made straight for his waterline entrance. It seemed a bit silly to go straight home, so we walked over to Ditchurch for a drink. When we got home, I found a letter from Charlie. I have remembered why I like my friends, and now like them again.</p>
+    <h6><i>21.v</i></h6>
+    <p>Sally’s away again. I think maybe I should try to pray. I’m not really sure how.</p>
+  </div>
+
+  </body>
+  </html>
 
