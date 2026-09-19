@@ -20,7 +20,7 @@ Text prepared and published by monofrogue.
 Canto I
 It is the eve of Good Friday, 1300, and Dante is thirty-five years old. He comes to himself in the darkness of the wood of Error, not knowing how he had lost the true way. Gaining the foot of a hill, the Delectable Mountain, or hill of virtue, he is cheered by the morning sun, and begins the ascent, but is baffled by a Leopard (Lust), then dismayed by a Lion (Pride), and a She-Wolf (Avarice). Turning to run back to the valley, he is met by the spirit of Virgil, the poet of his adoration, who in the Vision typifies human wisdom. Virgil tells him that he cannot pass the She-Wolf, though a saviour of Italy is one day to arise who will chase her into Hell; and Dante is to follow him and be shown the spirits who are in pain and have no hope, and the spirits who through pain are to come to bliss; and from these he will be led by another (Beatrice, Dante’s early love, typifying Heavenly Wisdom) to see the spirits in Paradise. Dante follows in Virgil’s steps.
 
-Midway life’s journey I was made aware
+MIDWAY life’s journey I was made aware
 	That I had strayed into a dark forest,
 	And the right path appeared not anywhere.
 Ah, tongue cannot describe how it oppressed,
@@ -48,8 +48,8 @@ So my mind, fleeing still and stricken sore,
 	Turned back to gaze astonished on that pass
 	Which none hath ever left alive before.
 When my tired body had rested a brief space
-	I trod anew the slope, desert and bare,	[30]
-	With the firmer foot still in the lower place.[ii]
+	I trod anew the slope, desert and bare,
+	With the firmer foot still in the lower place.[ii]	[30]
 And at the ascent, as ’t were on the first stair,
 	Behold! a Leopard, very swift and light[iii]
 	And covered with a hide of mottled hair.
@@ -156,12 +156,10 @@ Lead me where thou hast spoken of but now,
 	So that my eyes St. Peter’s gate may find[xiv]
 	And those whom thou portrayest in such woe!”
 Then he moved onward: and I went behind.
-	
-
 Canto II
 As the evening of the first day falls, Dante begins to doubt his courage for the journey. He recalls the visit to the underworld of Aeneas (told by Virgil in the Sixth Aeneid) and of St. Paul (the theme of a medieval legend) and declares himself unworthy to follow such as these. Virgil then discloses that Beatrice came from Heaven, prompted by Divine Grace, to ask him to rescue Dante from the dangers into which he has fallen. Dante’s courage at once revives, and he accepts his mission.
 
-The day was going, and the darkened air
+THE DAY was going, and the darkened air
 	Was taking from its toil each animal
 	That is on the earth; I only, alone there,
 Essayed to arm my spirit against all
@@ -218,7 +216,7 @@ I was with those who are in suspense: and there[xvii]
 Her eyes so shone, the Morning Star shines less.
 	And she began to speak, gentle and low,
 	In the angel voice that did her soul express:
-‘O courteous Mantuan spirit, whom men fame so[xix]
+“‘O courteous Mantuan spirit, whom men fame so[xix]
 	That thy renown yet lasts, and till Time end
 	The motion of his hours, shall greater grow,	[60]
 He that is my friend, but not fortune’s friend,
@@ -274,7 +272,7 @@ None in the world was ever swift to ensue
 	At once, after those words were uttered few,
 Hasted to come down from my blessèd seat,
 	Confiding in thy speech, so nobly graced,
-	It honours both thee and those hearing it’
+	It honours both thee and those hearing it.’
 Having said this, her footsteps she retraced,
 	Turning from me her eyes that wept and shone;
 	At sight of which she made me more to haste.
@@ -303,7 +301,6 @@ Now it is one will moves us both; thou art
 	Guide, master, lord!” These words to him I said,	[140]
 	And then, perceiving that he made to start,
 Began the desolate, arduous path to tread.
-	
 Canto III
 The poets pass through the door of Hell. And first, in what is Hell’s ante-room, they meet a confused lamenting rabble: these are those, displeasing alike to God and to his enemies, who pursued neither good nor evil. Among them Dante recognises him “who made the great refusal,” generally identified with the Pope Celestine V, who, elected in 1294, resigned a few months later in favour of Boniface VIII, Dante’s great enemy. Then they come to the shores of Acheron, the river which circles the rim of Hell before descending deeper; across it Charon ferries the lost souls, but demurs to taking Dante in his boat. A sudden earthquake throws Dante into a trance.
 
@@ -443,12 +440,10 @@ Out of the tear-drenched earth came forth a blast
 	That made a crimson flash before me leap
 	And numbness over all my senses cast.
 And I fell, like to one seized with a sleep.
-	
-	
 Canto IV
 When the poet awakes he is on the farther side of Acheron and on the brink of the great Abyss. He descends with Virgil to the First Circle or Limbo, where are the souls of the unbaptised and of the virtuous heathen. Virgil describes the descent of Christ into Limbo. In a part which is more luminous they are greeted by Homer and other chief poets of antiquity; it is here that Virgil's own place is. Farther on is a noble castle, where are seen heroes and heroines of old, Aristotle, “the master of them that know,” and the philosophers, and other famous spirits.
 
-Rumble of thunder upon my brain deep-drowsed
+RUMBLE OF THUNDER upon my brain deep-drowsed
 	So shook the sleep that at the heavy sound
 	I started, like a man by force aroused.
 And my now rested eyes casting around
@@ -477,10 +472,10 @@ Here was no sound that the ear could catch of rue,
 	Make the eternal air tremble anew.
 And this rose from the sorrow, unracked by pain,
 	That was in the great multitude below
-	Of children and of women and of mien.	[30]
+	Of children and of women and of men.	[30]
 The good Master to me: “Wouldst thou not know
 	What spirits are these thou seest and hearest grieve?
-	Td have thee learn before thou farther go,
+	I’d have thee learn before thou farther go,
 These sinned not: but the merit that they achieve[xxxvii]
 	Helps not, since baptism was not theirs, the gate
 	Of that faith, which was given thee to believe.
@@ -570,16 +565,16 @@ There on the green enamel, face to face,
 	Exalt myself to have enjoyed such grace.	[120]
 I saw Electra in a great company[l]
 	Among whom Hector and Aeneas were,
-	‘And armèd Caesar with the falcon eye.
+	And armèd Caesar with the falcon eye.
 I saw Camilla and Penthesilea there[li]
 	Over against them, and the Latian King;
 	Lavinia his daughter sitting near;[lii]
-‘That Brutus who drove out the proud Tarquin;
+That Brutus who drove out the proud Tarquin;
 	Lucrece, Cornelia, Julia, Marcia, four
 	Together, and by himself the Saladin.[liii]
 When I had raised my eyes a little more,	[130]
 	I saw the Master of those who know: he sate
-	‘Amid the sons Philosophy to him bore.
+	Amid the sons Philosophy to him bore.
 All do him honour, all eyes on him wait.
 	Here I beheld Plato and Socrates
 	Who of all are nearest to his high estate.
@@ -602,7 +597,7 @@ I come to a place where there is naught that shines.
 Canto V
 The descent to the Second Circle, with which Hell proper begins. Here are the souls of carnal sinners. Minos, who presides over the entrance of Hell as Judge and assigns their places to the damned as they come in, at first refuses admittance to Dante, but is overawed by Virgil. The carnal sinners are blown about forever on stormy winds, and among them Virgil points out famous lovers. Dante wishes to speak with one pair, who are Francesca da Rimini and Paolo Malatesta, brother of the husband to whom for state reasons Francesca had been married. Hearing Francesca’s story Dante is so overcome with pity that he faints.
 
-From the first circle I thus descended down
+FROM THE FIRST circle I thus descended down
 	Into the second, which less space admits,
 	And so much more pain that it stings to groan.
 There Minos, hideously grinning, sits,
@@ -744,11 +739,10 @@ While the one spirit spoke thus, the other cried
 	So lamentably, that the whole life fled	[140]
 	For pity out of me, as if I died;
 And I fell, like a body falling dead.
-
 Canto VI
 Dante awakes in the Third Circle, where an icy rain falls on souls of the gluttonous, watched over by Cerberus. A Florentine spirit named Ciacco accosts him and prophesies about Florence and the varying fortunes of the Black and White factions in it.
 
-When my mind came back, that had closed at sight
+WHEN MY MIND came back, that had closed at sight
 	Of those two kinsfolk in their misery bound,
 	Pity of whom in sorrow had mazed me quite,
 New torments, new tormented ones around,
@@ -805,7 +799,7 @@ You citizens called me Ciacco: I did ill.[lxxiv]
 And I, unhappy spirit, am not alone.
 	For all of these are in like penal state
 	For the like trespass.” More he would speak none.
-TI answered him: “Ciacco, thy piteous fate
+I answered him: “Ciacco, thy piteous fate
 	Weighs on me so, it moves me to lament.
 	But, if thou canst, tell me what things await	[60]
 The citizens of the city that strife has rent,
@@ -863,7 +857,6 @@ We made along that circle as round it bends,
 	Speaking much more than I repeat, till we
 	Attained the point whereat the road descends.
 Here found we Plutus, the Great Enemy.[lxxxii]
-
 Canto VII
 Plutus, the ancient God of Riches (who seems to be identified or confused by Dante with Pluto), presides over the Fourth Circle. Here are the Misers and the Spendthrifts, abusers of worldly goods in different ways. They roll dead weights in opposite directions and when they meet scold each other. Dante inquires of the function of Fortune, which Virgil explains. They arrive at the descent into the Fifth Circle, accompanying the fall of a stream which has worn a passage to form the marsh of Styx below. Here are the Wrathful, quarrelling in the mud, and the Sullen, sunk beneath it. The poets arrive at last at the foot of a tower.
 
@@ -994,12 +987,11 @@ And now we gloom and blacken in the mire.’
 	This sad refrain they gurgle in their throat
 	Because they cannot speak the words entire.”
 We 'twixt the dry bank and the putrid moat
-	Compassed a wide are of those waters sour,
+	Compassed a wide arc of those waters sour,
 	And still those swallowers of the filth we note.
 At last we reached the basis of a tower.[xciii]	[130]
-
 Canto VIII
-A signal flaming from the top of the tower is answered at a distance, and Phlegyas comes Fuerte in his boat to take the poets across the mars of Styx, supposing them to be damned souls. On the passage Filippo Argenti, a Florentine, tries to clutch the boat and is set on by his fellow-sinners, to Dante’s great satisfaction. Soon appears the red city of Dis or Lucifer, wherein are punished the more heinous sins. Fallen angels refuse the poets admission, and even Virgil is discomfited.
+A signal flaming from the top of the tower is answered at a distance, and Phlegyas comes hurrying in his boat to take the poets across the mars of Styx, supposing them to be damned souls. On the passage Filippo Argenti, a Florentine, tries to clutch the boat and is set on by his fellow-sinners, to Dante’s great satisfaction. Soon appears the red city of Dis or Lucifer, wherein are punished the more heinous sins. Fallen angels refuse the poets admission, and even Virgil is discomfited.
 
 I SAY, continuing, that as on we went,
 	Long ere the foot of that high tower we hit,
@@ -1131,11 +1123,10 @@ Thou sawest the dead writing that it bore.
 	And now, this side of it, comes hitherward
 	Without guide down the circles one before[xcviii]
 Whose might the place shall be to us unbarred.”	[130]
-
 Canto IX
-Without some divine aid the poets are unable to enter the City. Above the walls suddenly appear the three Furies and threaten Dante with the Medusa head which turns those who see it to stone. At last appears with a sound of storm the Angel for whose aid Virgil has been waiting; he passes over the marsh, puts the demons to flight and opens the gate of the City. They pass within and find a plain covered with sepulchres, the lids of which are open and which are full of flames.These sepulchres contain the Heretics.
+Without some divine aid the poets are unable to enter the City. Above the walls suddenly appear the three Furies and threaten Dante with the Medusa head which turns those who see it to stone. At last appears with a sound of storm the Angel for whose aid Virgil has been waiting; he passes over the marsh, puts the demons to flight and opens the gate of the City. They pass within and find a plain covered with sepulchres, the lids of which are open and which are full of flames. These sepulchres contain the Heretics.
 
-THE colour cowardice had painted pale
+THE COLOUR cowardice had painted pale
 	Upon my cheek, seeing my Guide turn back,
 	Made him more promptly his own hue countervail.
 He stopt, like one who some far sound would track,
@@ -1220,7 +1211,7 @@ He waved the gross fumes from before his face,
 	Moving often his left hand as he went;
 	And only of that annoyance showed he trace.
 Well did I know that he from Heaven was sent,
-	And tured to the Master; and he signed his will
+	And turned to the Master; and he signed his will
 	That I should stand all quiet with head down-bent.
 Ah, with what scorn his countenance seemed to fill!
 	He came to the gate, and with a wand he held
@@ -1268,11 +1259,10 @@ Here like with like is buried in one abode,	[130]
 	And less or more hot are the monuments.”
 	Then to the right hand turning, our feet trod
 Between those pangs and the high battlements.
-
 Canto X
 Passing between the flaming sepulchres and the rampart circling the city, Dante is accosted from one of the tombs by Farinata, chief of the Ghibellines of Florence, who foretells to Dante the length of his exile and explains the nature of the foreknowledge possessed by the dead. He is interrupted by his companion in the tomb, the father of Guido Cavalcanti (Dante’s greatest friend, poet and son-in-law of Farinata), who not seeing Guido with Dante is anxious to know if he is alive or dead: but Dante does not enlighten him. In reply to a question, Farinata says that Frederick II, the emperor, “stupor mundi,” whose half-Oriental court in Sicily was so brilliant in the thirteenth century, and the Cardinal Ottaviano degli Ubaldini, are among the heretics entombed.
 
-NOW journeying along a secret track
+NOW JOURNEYING along a secret track
 	Between the ramparts and the sufferers
 	My Master goes, and I behind his back.
 “O sovran Virtue, who down the circling tiers
@@ -1411,7 +1401,7 @@ Wherefrom the fume rose noisome even thus high.
 Canto XI
 The descent to the next, the Seventh Circle, is now before the poets; but the fetid stench arising from it repels them so that they take refuge behind a sepulchre. The opportunity is taken by Virgil to explain to Dante the conformation of the lower Hell, and the various kinds of guilt punished in the several circles: the system being based on Aristotle’s classification, to whose Ethics Virgil refers, and on Cicero’s. Three kinds of violence are punished in three separate rings of the Seventh Circle, which they are next to visit. The fraudulent are in the Eighth, those guilty of the special fraud of treachery in the Ninth and lowest circle. Dante will now have no need to ask for what crimes the sinners he is to meet are chastised: but he fails to understand at first why all the damned are not in the City of Dis. Virgil explains that the sins of incontinence, the punishment of which they have already witnessed before entering the city, are less offensive to God and so less grievously visited.
 
-ON THE edge of a circle of great broken stones
+ON THE EDGE of a circle of great broken stones
 	Rimming a cliff, we came above the place
 	Wherein are packed worse sins and deeper groans.
 And here, because of the horrible excess
@@ -1526,7 +1516,6 @@ But follow now, for I am willed to go.
 	The Fishes quiver on the horizon air,[cxxxii]
 	And over Caurus all the Wain lies low.
 Far on it is where we descend the stair.”
-
 Canto XII
 Down a steep slope of shattered rock (caused by the earthquake at the Crucifixion), guarded by the Minotaur, the poets clamber to the Seventh Circle and find at the bottom of the cliff a River of Blood (Phlegethon) which flows round the circle. Boiling in its stream are those who have been violent against others; this being the first ring of the circle. Centaurs trot about the bank and shoot those who emerge more than their punishment allows. Chiron, their chief, appoints Nessus to guide Dante across the shallowest part of the stream. On the way, Nessus points out certain conquerors, assassins and highwaymen; among them is Guy de Montfort, who avenged his father Simon’s death by murdering Henry, son of Richard, Earl of Cornwall, “on God’s bosom,” i.e. in a church, during Mass, at Viterbo. Henry's heart was said to have been kept in a casket on London Bridge.
 
@@ -1553,11 +1542,11 @@ Off, Monster! This one comes not with a clue
 	But passes on, your penances to view.”
 As a bull bursts his tether to attack
 	Just when he feels the stroke that makes an end
-	‘And cannot charge but plunges forth and back,
+	And cannot charge but plunges forth and back,
 So did the Minotaur his fury spend;
 	And watchful called my Guide: “To the passage! Haste!
 	The while he storms, ’tis best that thou descend.”
-Ties climbed we downward on that splintered waste
+Thus climbed we downward on that splintered waste
 	Of stones, that often slid beneath my tread
 	With the unfamiliar weight upon them placed.	[30]
 I went in thought: and “Peradventure,” he said,
@@ -1665,11 +1654,10 @@ That on the other it shelves from deep to deep	[130]
 Here Divine Justice stings that Attila[cxlix]
 	Who upon earth was the world’s flail; and here
 	Pyrrhus and Sextus; and it milketh aye[cl]
-Wea scald of pain the disimprisoned tear
+With scald of pain the disimprisoned tear
 	From Rinier of Corneto, who so warred,[cli]
 	With Rinier Pazzo, on the traveller.”
 Then he turned backward, and repassed the ford.
-
 Canto XIII
 Crossing Phlegethon by the ford, the poets arrive in the Wood of the Suicides, who have become withered and poisonous trees among which the Harpies cry. Pier dalle Vigne, who rose to great power and to be Frederick II’s most intimate adviser, then suddenly fell into disgrace and committed suicide, speaks from one of the trees and tells Dante his story. Their talk is interrupted by a rushing noise made by two spirits pursued by hounds. These are Giacomo da Sant’ Andrea, and Lano, a Sienese, two notorious spendthrifts. Another spirit, unnamed and unknown, tells Dante that he is of Florence, the city which had Mars for its patron and by changing him for the Baptist was thought to have incurred that god’s malignity.
 
@@ -1827,7 +1815,7 @@ I made my gibbet of my own roof-tree.”[clxiv]
 Canto XIV
 The third ring of the Seventh Circle is the ring of Burning Sand, which torments the violent against God, who lie supine; the violent against Nature and Art, who sit all huddled up; and the violent against Nature, who are forced to be continually moving: on all of them falls a fiery rain. Among the first group is Capaneus, one of the Seven Against Thebes, who retains his fierce rebellious spirit. Virgil guides Dante along the edge of the Wood of the Suicides, so as to avoid the burning sand which the wood encloses all round; and from the wood flows a red stream, apparently a branch of Phlegethon, which has petrified its banks, which are high, like dykes, and has the power of quenching the flames which fall on it. Virgil explains the origin and course of the rivers of Hell.
 
-THE dearness of my native place perforce
+THE DEARNESS of my native place perforce
 	Constraining me, those scattered leaves I brought
 	Back to him, who by now grew faint and hoarse.
 Then came we where is the division wrought
@@ -1895,8 +1883,8 @@ To thine unquenched pride, thou art punished more.
 	Would be a pain proportioned to thy score.”
 Then turned to me, a gentler look he gave,
 	Saying: “This spirit was one of those Seven Kings
-	Who besieged Thebes, and had, and seems to have,	[70]
-God in despite; and scorn upon Him flings.
+	Who besieged Thebes, and had, and seems to have,
+God in despite; and scorn upon Him flings.	[70]
 	But, as I have told him, his revilings black
 	For such a breast are fittest garnishings.
 Now go behind me, and see that in my track
@@ -1940,7 +1928,7 @@ Thence down he is all of iron, proved the best,
 	And on this, more than the other, doth he rest.
 All portions of him save the gold betray
 	Fissures that drop tears, oozing without end,
-	Which through the cave, collecting, force their w
+	Which through the cave, collecting, force their way.
 Their streams cascading in this valley spend:
 	Acheron they make, and Styx and Phlegethon;
 	Then by this narrow conduit they descend
@@ -1972,7 +1960,7 @@ And over it no fire hath power to be.”
 Canto XV
 Dante follows Virgil along one of the petrified high banks of the stream which crosses the sand; and as they go, they meet a troop of those who indulged unnatural lust (the “violent against-nature”), and among them Dante recognises Brunetto Latini, famous in Florence as a philosopher and man of learning and author of the Treasure. They greet each other affectionately; Brunetto speaks warmly of Dante’s merits, and severely of the ingratitude of Florence; Dante acknowledges in tender words all he owes to Brunetto and his writings. Among Brunetto’s companions is a bishop transferred by Boniface VIII (servus servorum Dei was a style used by the Popes) from Florence to Vicenza: the first reference in the poem to the great pope whom Dante detested.
 
-Now one of the hard banks our footing bears,
+NOW ONE of the hard banks our footing bears,
 	And the stream’s smoke maketh a shadowy shield
 	So that the fire both bank and water spares.
 As ‘twixt Wissant and Bruges the Flemings build,
@@ -2035,7 +2023,7 @@ And had Fate chosen my own years to extend,
 But that ungrateful, that malignant folk[clxxx]
 	Who came of old down from Fiesole,[clxxxi]
 	And still smack of the mountain and the rock,
-Will for thy good deeds turn ‘thine enemy.
+Will for thy good deeds turn thine enemy.
 	And there is cause; among the acid sloes
 	Ill fits that sweet figs fruit upon the tree.
 Old fame on earth proclaims them envious,
@@ -2099,7 +2087,7 @@ Seemed in the loser’s but the winner’s place.
 Canto XVI
 Three Florentines detach themselves from a troop of spirits and hail Dante as their countryman. Of the fate of two of them, Tegghiaio and Rusticucci, whom he admired for their political uprightness, he had already been told vaguely in Canto VI. They ask if Florence is really so degenerate as they have heard, and at Dante’s answer depart sorrowfully. The poets have now arrived at the place where the stream falls roaring over into a great abyss: but how are they to descend? Virgil takes the cord which Dante wears as a girdle and throws it down into the pit; and to Dante’s astonishment a strange monster floats up and poises itself on the brink of the precipice.
 
-Already I had come to where the boom
+ALREADY I had come to where the boom
 	Of water falling into the other ring[clxxxix]
 	Was heard resounding like a bee-hive’s hum,
 When three shades parted, in their haste running
@@ -2204,14 +2192,14 @@ Resoundeth, falling in one full cascade[cxcvi]	[100]
 So, thundering from a bank and plunging sheer,
 	That crimsoned water on our senses smote
 	So that ere long it would have stunned the ear.[cxcvii]
-had a cord that girdled me about,
-	‘And one time had I thought within its noose
+I had a cord that girdled me about,
+	And one time had I thought within its noose
 	To catch the leopard with the spotted coat.
 When from my loins I had made it wholly loose,
 	I gave it to my Guide, upcoiled and wound,	[110]
 	Even as he commanded, for his use.
 He bent him on the right side toward the ground,
-	‘And some few paces from the precipice
+	And some few paces from the precipice
 	He flung it forth into that pit profound.
 “Surely it must be something strange shall rise,”
 	I inly said, “by this strange signal brought
@@ -2238,7 +2226,7 @@ Who stretches arms up, and draws in the heels.
 Canto XVII
 The monster is Geryon, the emblem of Fraud, who guards the Eighth Circle; and to this the poets are now to descend on Geryon’s back. But first Dante goes alone to see a group of the third class of the violent who are punished in the burning sand. These are the Usurers, who are violent against Nature and Art. Returning to Virgil he takes his place on Geryon, who floats down the circular abyss and brings them to the next circle.
 
-Behold the fell beast with the sharp tail curled
+BEHOLD the fell beast with the sharp tail curled
 	That mountains, walls and armour pierces through!
 	Behold him who corrupteth the whole world!”
 Thus did my Master speak to me anew,
@@ -2374,7 +2362,6 @@ So Geryon at the bottom of the scar
 	Set us beside the rock’s foot, ribbed and rough,
 	And when he was disburdened of our care
 Like arrow from the string he bounded off.
-
 Canto XVIII
 The Eighth Circle is divided into ten concentric rings forming deep chasms called Malebolge or Evil Pockets; in each of them a separate kind of Fraud has its own punishment. From the circumference of the circle to the central pit (leading to the Ninth Circle) run “spokes” of rock which bridge the chasms. In the first, or outermost, chasm are two processions of sinners going opposite ways; the first are panders, the second seducers. By means of one of the bridges Dante passes to the cliff above the next chasm or bolgia where are flatterers immersed in filth. The description of the ten chasms of the Eighth Circle occupies this and the succeeding cantos as far as the end of Canto XXX.
 
@@ -2514,9 +2501,8 @@ Thais is she, the whore who thus replied[ccxviii]
 	To her lover when ‘Dost thank me much?’ he said:
 	“Ay, more than much, marvellously,’ she cried.
 And herewith let our sight be surfeited.”
-
 Canto XIX
-The third chasm contains the Simonists, who are each fixed head downwards in holes in the rock. Dante speaks with Pope Nicholas III, who takes him at first to be the still living Boniface VIII (Pope from 1294 to 1303). Dante hated Boniface and has here contrived an opportunity—not the only one in the poem, see also Canto XXVII—for speaking his mind. Nicholas tells how he promoted the interests of his family, the Orsini (“I was a son of the She-Bear’), and prophesies the advent in Hell of a Pope “from the West,” i.e. France—Clement V, the Frenchman who transferred the Papal See to Avignon. Dante denounces Simonism to Nicholas in trenchant words. Virgil then carries him to the arch looking down on the next chasm.
+The third chasm contains the Simonists, who are each fixed head downwards in holes in the rock. Dante speaks with Pope Nicholas III, who takes him at first to be the still living Boniface VIII (Pope from 1294 to 1303). Dante hated Boniface and has here contrived an opportunity—not the only one in the poem, see also Canto XXVII—for speaking his mind. Nicholas tells how he promoted the interests of his family, the Orsini (“I was a son of the She-Bear”), and prophesies the advent in Hell of a Pope “from the West,” i.e. France—Clement V, the Frenchman who transferred the Papal See to Avignon. Dante denounces Simonism to Nicholas in trenchant words. Virgil then carries him to the arch looking down on the next chasm.
 
 O SIMON MAGUS, O lost wretches, led
 	By thee, who prostitute the things that need,
@@ -2642,7 +2628,7 @@ Of a truth I think it pleased my Guide, he hung
 	Upon my lips with so content an eye,
 	Hearing the sound of truth upon my tongue.
 Therefore he took me in both his arms to lie,
-	‘And when he had drawn me all upon his breast
+	And when he had drawn me all upon his breast
 	Mounted the path he had descended by.
 Nor did he weary in holding me close-prest
 	Until, where the steep arch the chasm bestrode
@@ -2651,7 +2637,6 @@ Here softly he the burden of his load	[130]
 	Soft on the rough and craggy cliff deposed
 	Where to goats even it were a painful road.
 Therefrom another valley was disclosed.
-
 Canto XX
 Dante looks down on the fourth chasm of Malebolge, where the Sorcerers and Diviners go with their faces twisted so as to look behind them: Among these are Amphiaraus of Argos, one of the Seven Against Thebes, Tiresias the Theban, Aruns the Etruscan, and Manto, daughter of Tiresias, who, according to the story now put in Virgil’s mouth, founded his native city of Mantua. Virgil points out other diviners, among whom is Michael Scot, a prominent figure at the court of Frederick II in Sicily; then enjoins haste, as “Cain and his Thorns,” ie. the “man in the moon,” is setting beyond Seville (Spain being conceived as the Western boundary of the northern hemisphere, as India or “Ganges” the Eastern).
 
@@ -2720,7 +2705,7 @@ Above in beauteous Italy lieth, walled
 	Over Tiralli, a lake Benaco called.[ccxxxvi]
 Through a thousand springs is all between Pennine
 	And Garda and Val Camonica hesprent
-	The land by streams that in that luke resign.
+	The land by streams that in that lake resign.
 Midmost a place is where the pastor of Trent[ccxxxvii]
 	And he of Brescia and the Veronese
 	Might give their blessing if that road they went.
@@ -2788,7 +2773,7 @@ Thus as he spoke, we moved on from that spot.	[130]
 Canto XXI
 The next chasm of Malebolge into which they look is that of the Barrators and Peculators who made a traffic of public offices. These are submerged in a river of boiling pitch and are kept under by a horde of demons armed with long hooks and called Malebranche or Evil-Talons. These demons threaten the poets, till Virgil appeases their chief, who gives them directions (afterwards proved false) and appoints ten of his band to escort them.
 
-FROM bridge to bridge we came, with other talk
+FROM BRIDGE to bridge we came, with other talk
 	Which to recite my Comedy hath no care,
 	Keeping the summit of the stony baulk.
 Then stopt we, on Malebolge’s following lair
@@ -2927,11 +2912,10 @@ By the left bank they turned to go; but first,
 	With tongue between his teeth protruded, each
 	Made signal to his chief; and from him burst
 A sound that made a trumpet of his breech.
-
 Canto XXII
 The poets go along the stream with their escort, one of whom catches a sinner who has emerged from the pitch and holds him up by the hair. He is a Navarrese called Ciampolo (the name however is not given by Dante) and Virgil questions him. He offers to bring sinners of Italian birth to speak with them, and by a trick eludes the demons. Two of the Malebranche then quarrel among themselves and are left entangled in the pitch. This episode seems introduced by way of humorous relief.
 
-I HAVE seen horsemen moving camp to arm
+I HAVE SEEN horsemen moving camp to arm
 	For the assault, and mustering band by band,
 	And other whiles retiring at the alarm;
 I have seen prickers file across your land,
@@ -3083,7 +3067,7 @@ This side and that, each at his post, the four.
 	Whose crust was burnt already to the core.	[150]
 Thus busily embroiled we left them there.
 Canto XXIII
-Dante, following in Virgil’s steps, begins to fear that they will be overtaken the revengeful demons. They are in fact pursued, and only escape by hurried flight, Virgil making a glissade, with Dante in his arms, down the slope of the next chasm. Here are the Hypocrites pacing in copes of lead, heavier than those devised by Frederick II for malefactors. Two Friars of Bologna speak with Dante; they were in 1266 installed in the office of Podesta at Florence. Suddenly Dante catches sight of Caiaphas crucified on the ground. One of the Friars tells of the punishment of him and Annas, and afterwards points out to the poets the right path for them to take.
+Dante, following in Virgil’s steps, begins to fear that they will be overtaken by the revengeful demons. They are in fact pursued, and only escape by hurried flight, Virgil making a glissade, with Dante in his arms, down the slope of the next chasm. Here are the Hypocrites pacing in copes of lead, heavier than those devised by Frederick II for malefactors. Two Friars of Bologna speak with Dante; they were in 1266 installed in the office of Podesta at Florence. Suddenly Dante catches sight of Caiaphas crucified on the ground. One of the Friars tells of the punishment of him and Annas, and afterwards points out to the poets the right path for them to take.
 
 SILENT, lonely, and with no company,
 	One before and one after, as on their way
@@ -3122,7 +3106,7 @@ Of these words hardly had he made an end
 	When them I saw, coming with outspread wing
 	Not far off, ardent us to apprehend.
 My Guide suddenly seized me, hurrying
-	‘As a mother whom the roar and cries awake,
+	As a mother whom the roar and cries awake,
 	Who sees the flames quite near her start and spring
 Snatches her child and flieth, for his sake	[40]
 	More than her own, and has no thought to stop
@@ -3236,7 +3220,7 @@ Following the prints of his beloved feet.
 Canto XXIV
 They set out to climb the ruin of a bridge shattered by the earthquake which took place at Christ's death on the cross. The mountain-climb is vividly described. Dante reaches the top exhausted, and they move down into the seventh chasm, occupied by the Thieves, who are tormented by serpents. One of the thieves, Vanni Fucci, is seized by a serpent, and is instantly burnt to ashes, but at once the ashes resume the former shape. He tells of his crime, and makes a prophecy about the war of the Black and White factions and foretells an attack by Malaspina, captain of the Black Guelfs in Florence, on Pistoia.
 
-IN THAT part of the young year when the Sun
+IN THAT PART of the young year when the Sun
 	Beneath Aquarius warms his beaming locks[cclxii]
 	And toward the South the nights begin to run,
 And when upon the ground the hoar-frost mocks
@@ -3372,7 +3356,7 @@ The felon, who had heard me, assumed no mask,	[130]
 	In the miserable plight which thou dost see
 	Than when from life to this world I was brought.
 Refuse I cannot what thou hast asked of me.
-	Lam thrust down so far because I stole
+	I am thrust down so far because I stole
 	The fair adornments of the Sacristy.[cclxviii]
 Falsely the sin was laid on other’s soul.
 	But that this sight may not rejoice thine eyes,	[140]
@@ -3390,7 +3374,7 @@ Know this, that thou may’st have wherewith to grieve.”
 Canto XXV
 Fucci cries out in blasphemous rage, and is set upon by the serpents. Cacus, a giant robber in the Aeneid, but here represented as a centaur, pursues him. Then three thieves appear; and on one of them, Agnello, a kind of dragon (really Cianfa who has been transformed into it) fastens itself so closely that they merge into one strange shape. Then a viper (into which Francesco de’ Cavalcanti has been changed) bites Buoso degli Abati; and this time, serpent changes into man and man into serpent. Francesco had been killed at Gaville, near Florence.
 
-WHEN he had made an end, the thief exclaimed,
+WHEN HE HAD made an end, the thief exclaimed,
 	Raising his hands with both the figs on high:[cclxxi]
 	“Take thou them, God; at thee, at thee they are aimed.”
 Thenceforth the serpents were no enemy
@@ -3442,11 +3426,11 @@ While with brows raised I held them in mine eyes,
 	Lo, a serpent with six feet one sinner faced	[50]
 	And darting clamped its body entire on his.
 With the middle feet his belly it embraced,
-	With the forefeet grips the arms and held them pent;
+	With the forefeet gript the arms and held them pent;
 	Then of both cheeks its fangs had the full taste.
 With the hind feet stretcht along his thighs it leant,
 	And whipt its tail out in between the two
-	‘And upwards on the loins behind him bent.
+	And upwards on the loins behind him bent.
 Ivy upon a tree never in-grew
 	Close as that hideous creature, all up-reared,
 	To the other’s body did its body glue.	[60]
@@ -3479,14 +3463,14 @@ On one of them it pierced with sudden bite
 	Then, dropping down, lay stretched out opposite.
 That pierced one stared on it but nothing said;
 	Nay, without motion of his feet he yawned
-	A if a sleep or fever on him weighed.	[90]
+	As if a sleep or fever on him weighed.	[90]
 He eyed the snake, the snake him: from his wound
 	The one smoked fiercely, the other from its mouth;
 	Their smoke commingled in the air beyond.
-LetLucan tell no more the fate uncouth
+Let Lucan tell no more the fate uncouth
 	Of poor Sabellus and Nasidius,[cclxxx]
 	But stay to hear shot forth a stranger truth;
-Norr Ovid boast Cadmus and Arethuse
+Nor Ovid boast Cadmus and Arethuse
 	More; if the one he fabled into a snake,
 	To a fountain the other, I grudge it not his Muse,
 For never did he such transfusion make	[100]
@@ -3686,11 +3670,10 @@ Three times it made her to spin round and round
 	With all the waves; and, as Another chose,	[140]
 	The fourth time, heaved the poop up, the prow drowned,
 Till over us we heard the waters close.”
-
 Canto XXVII
 Another flame appears, and a voice from it asks for news of Romagna, and Dante tells of its condition. The name of this spirit is not given, but he is Guido da Montefeltro, a distinguished Ghibelline. He tells how he was persuaded by Pope Boniface VIII to give fraudulent counsel. The poets then pass to the next chasm.
 
-Quieted now, the flame rose all upright,
+QUIETED now, the flame rose all upright,
 	Having no more to speak, and with the accord
 	Of the sweet poet was moving from our sight
 When another, that came on behind it, toward
@@ -3974,7 +3957,7 @@ Thus retribution’s law do I maintain.”
 Canto XXIX
 The poets, as they cross to the next chasm, talk of Geri del Bello, a kinsman of Dante. They now come to the tenth and last bolgia, containing the Falsifiers. Their penalty is to be afflicted with loathsome diseases, and they lie grovelling and helpless and inert. Dante speaks with one (Grifolino) who promised to teach Albero of Siena to fly, and was also an alchemist, like his companion Capocchio, who derides the Sienese in an ironic speech.
 
-THOSE throngs and their unheard-of wounds had made
+THOSE THRONGS and their unheard-of wounds had made
 	Mine eyes so drunk, they were with longing faint
 	To tarry, and weep out what on them weighed.
 But Virgil said: “Why gazest still intent?
@@ -4116,7 +4099,7 @@ How I of Nature was so good an ape.”
 Canto XXX
 The poets are still in the tenth chasm and now meet the Counterfeiters. Among them is one Schicchi, who impersonated Buoso de’ Donati in order to gain, with other things, a beautiful mare (the “lady of the herd,” line 43); also Myrrha, the story of whose incest is told by Ovid. These, who are counterfeiters of persons, are afflicted with madness. Next are the coiners, counterfeiters of things, punished with dropsy. One of them, Adam of Brescia, tells his story to Dante, and points out Potiphar’s wife, and Sinon, who betrayed Troy to the Greeks; they are perjurers, falsifiers in words, who are afflicted with fever. Adam and Sinon engage in a squabble, and Virgil reproves Dante for listening to them.
 
-WHAT time revengeful Juno was inflamed
+WHAT TIME revengeful Juno was inflamed
 	Through Semele against the Theban blood,[cccxxxv]
 	As otherwhiles like forfeit she had claimed,
 Athamas fell to so insane a mood,
@@ -4220,7 +4203,7 @@ And one who of his speech took angry note,	[100]
 	Upon the rigid belly of him smote.
 It sounded like the beat of a great drum.
 	And Master Adam smote him in the face,
-	With arm that seemed as hard and meitlesome,
+	With arm that seemed as hard and mettlesome,
 Saying to him: “Though from this cursed place
 	My heaviness disableth me to go,
 	I have an arm still free for such a case.”
@@ -4264,11 +4247,10 @@ Remember I am always at thy side,
 	Should fortune bring thee to some other place
 	Where with like tongues men wrangle and deride.
 The wish to hear them is a wish that’s base.”
-
 Canto XXXI
 Dante has now visited the whole of the Eighth Circle, with its ten concentric chasms; and approaches the central well or pit which leads to the last and lowest circle. He seems to see a ring of towers round the well; but Virgil explains that these are Giants, who stand within it, and whose upper part appears over the bank surrounding the well. One of the Giants is Nimrod, who is by Dante supposed to have built the Tower of Babel, and pays for it by his unintelligible speech. After seeing him the poets go on round the rim of the well to Ephialtes, and then to Antaeus, who takes them up in his grasp and deposits them at the bottom of the pit, in the Ninth Circle. As he leans over he appears to Dante like the Garisenda, one of the leaning towers of Bologna.
 
-THE self-same tongue first dealt to me the wound
+THE SELF-SAME TONGUE first dealt to me the wound
 	So that it coloured both my cheeks with red,
 	And then itself restoring medicine found.
 Thus have I heard that by Achilles sped[cccxliv]
@@ -4395,7 +4377,7 @@ Make us not go to Typho or Tityus![cccliii]
 	This man can give what here is languished for.
 	Bend thee then down, nor curl thy lip at us.
 He can thy fame yet upon earth restore:
-	He llives, and him long life doth yet abide
+	He lives, and him long life doth yet abide
 	If to itself Grace call him not before.”
 Thus spake the Master, and quickly from his side	[130]
 	He stretched the hands which Hercules assayed
@@ -4413,9 +4395,8 @@ But gently on the floor which keeps confined[ccclv]
 	Judas with Lucifer, he down at last
 	Set us, nor lingered over us inclined,
 But raised himself, as in a ship the mast.
-
 Canto XXXII
-The Ninth Circle is formed by the frozen waters of Cocytus, into which all the rivers of Hell descend. It is divided into four concentric rings. The outermost is called Caina, from Cain who killed his brother, and contains those who have done violence to their own kin. The second is called Antenora, from Antenor the Trojan, and contains those who, like him, betrayed their country. The other two are called Ptolomea and Giudecca. In Caina Dante finds the two sons of Alberto degli Alberti frozen into the ice: they had killed each other. Dante learns who they are from Camicion de’ Pazzi. Moving into Antenora—for there is no material division petthaey the rings of this circle—he strikes his foot against the head of Bocca degli Abbati, the traitor on the Florentine side at the battle of Montaperti; Bocca refuses to tell his name, though Dante discovers it, but is eager to tell of other traitors. Passing on, Dante sees two sinners frozen in one hole, one of whom gnaws the head of the other.
+The Ninth Circle is formed by the frozen waters of Cocytus, into which all the rivers of Hell descend. It is divided into four concentric rings. The outermost is called Caina, from Cain who killed his brother, and contains those who have done violence to their own kin. The second is called Antenora, from Antenor the Trojan, and contains those who, like him, betrayed their country. The other two are called Ptolomea and Giudecca. In Caina Dante finds the two sons of Alberto degli Alberti frozen into the ice: they had killed each other. Dante learns who they are from Camicion de’ Pazzi. Moving into Antenora—for there is no material division between the rings of this circle—he strikes his foot against the head of Bocca degli Abbati, the traitor on the Florentine side at the battle of Montaperti; Bocca refuses to tell his name, though Dante discovers it, but is eager to tell of other traitors. Passing on, Dante sees two sinners frozen in one hole, one of whom gnaws the head of the other.
 
 IF I HAD rhymes to rasp and words to grate
 	Congenial with the grimness of the pit
@@ -4480,7 +4461,7 @@ They issued from one body: Caina through
 Not him whose breast and shadow by the blade[ccclxii]
 	In Arthur’s hand were cloven at one blow;
 	Not Focaccia; nor him who with his head[ccclxiii]
-Soblocks my sight, it can no further go,
+So blocks my sight, it can no further go,
 	And Sassol Mascheroni had for name:[ccclxiv]
 	If thou be Tuscan, him wilt thou well know.
 And lest thou tease me further speech to frame,
@@ -4517,7 +4498,7 @@ Then seizing him by the hair behind, I said:
 	“Needs must I have thy name from thine own lip
 	Or not a hair remains upon thy head.”
 Whence he to me: “Though all my scalp thou strip,	[100]
-	Til tell not who I am; I will resist,
+	I’ll tell not who I am; I will resist,
 	Though over me a thousand times thou trip.”
 Already I had his hair twined in my fist,
 	And more than one tuft had I plucked away,
@@ -4556,11 +4537,10 @@ That, if with reason thou complain so sore,
 	I, knowing who ye are and what his crime,
 	May yet on earth above repay thy score,
 So my tongue be not withered ere the time.”
-
 Canto XXXIII
 The two sinners are Count Ugolino and the Archbishop of Pisa, both traitors. Ugolino, having the chief power in Pisa, where he was head of the Guelfs, allied himself with the Archbishop, the leader of the Ghibellines, in order to get rid of his nephew; then the Archbishop turned against him and had him and his four sons imprisoned in a tower and starved to death, as Ugolino now describes to Dante. After an outburst of bitter indignation against Pisa, Dante passes on with Virgil to the third ring, the Ptolomea, so called from Ptolemy, whose treacherous act of murder is told in the Book of Maccabees. Here they find Friar Alberic, who invited his brother and nephew to a feast and then had them killed; the signal to the murderers being “Bring in the fruit.” He explains the peculiar privilege of Ptolomea, that sometimes a man is brought there still alive, leaving a demon in his body on earth. This is the case with him and with Branca d’Oria, who had his father-in-law, Michel Zanche (already met with in Malebolge), murdered.
 
-THAT sinner raised up from the brute repast
+THAT SINNER raised up from the brute repast
 	His mouth, wiping it on the hairs left few
 	About the head he had all behind made waste.
 Then he began: “Thou willest that I renew
@@ -4643,7 +4623,7 @@ Ah, Pisa! thou offence to the whole people
 	Since vengeance in thy neighbours’ hands is dull,[ccclxxvii]
 Caprara and Gorgona shifted be[ccclxxviii]
 	Into Arno’s mouth, and Arno back be rolled,
-	That every living soul be drowned in theel
+	That every living soul be drowned in thee!
 For if Count Ugolin by treachery sold[ccclxxix]
 	Thy forts, it was not cause thou shouldst torment
 	His little sons, whatever of him was told.
@@ -4717,11 +4697,10 @@ For with Romagna’s evillest spirit I found[ccclxxxv]
 	One of you, who, for deeds he did contrive[ccclxxxvi]
 	Even now in soul is in Cocytus drowned
 And still in body appears on earth alive.
-
 Canto XXXIV
 There remains the last ring of the circle, the Giudecca (so named from Judas Iscariot), where the sinners are wholly imprisoned in the ice. Here at the centre of the earth is the monstrous form of Lucifer, half above the ice and half below it. He has three heads; and in his teeth are mangled the spirits of Judas, of Brutus, and of Cassius. All has now been seen. Dante puts his arms round Virgil's neck; and Virgil, clinging by Lucifer’s shaggy side, lets himself down to his waist; there he turns round (at the centre of gravity in the universe), so that his head is where his feet had been, and climbs in the opposite direction, ie. toward the antipodes, which, except for the Mount of Purgatory, is all water. By a long passage in the rock the poets climb up till through a round opening they see the stars, and emerge at last in the southern hemisphere on the shores of the Mount of Purgatory surrounded by the sea.
 
-THE banners of the King of Hell proceed
+THE BANNERS of the King of Hell proceed
 	Toward us,” my Guide said. “If thine eyes avail
 	To espy him, forward gaze and give good heed.”
 As when the thick autumnal mists exhale,
@@ -4864,7 +4843,7 @@ Thence issuing, we beheld again the stars.[cccxcvi]
 Canto I
 Having emerged from Hell, Virgil and Dante find themselves on the eastern shores of the island-mountain of Purgatory, which is at the antipodes of Jerusalem. It is the dawn of Easter Day, 1300. Four stars, symbols of the cardinal virtues (perhaps suggested by descriptions of the Southern Cross), blaze in the sky. Cato, the Guardian of Purgatory, appears to the poets and questions them. Being satisfied by Virgil, he tells them to wait for the daylight; but first Virgil is to wash Dante’s face with dew and to gird him with a reed.
 
-Now hoisteth sail the pinnace of my wit
+NOW hoisteth sail the pinnace of my wit
 	For better waters, and more smoothly flies
 	Since of a sea so cruel she is quit,
 And of that second realm, which purifies
@@ -5136,7 +5115,6 @@ So saw I that new company arise,	[130]
 	And leave the song, and the steep slope essay,
 	Like one who goes, knowing not of where he hies:
 Nor with less haste went we upon our way.
-
 Canto III
 As the two poets proceed towards the mountain, Dante notes that he casts a shadow but that Virgil does not. Virgil calms Dante’s perplexities. They arrive at the foot of the mountain and are baffled by the precipitous face of it, when a troop of spirits approaches and by these they are directed. One of their number is Manfred, son of the Emperor Frederick II and King of Sicily. He tells of his death at the battle of Benevento and the contumely done to his body by order of Pope Clement IV. Because he died excommunicate, though repenting at death, he is doomed to a long period of wandering in this Ante-Purgatory.
 
@@ -5427,7 +5405,6 @@ The poet already had mounted from that place
 	Before me, saying: “Come, thou seèst stand
 	The sun at the meridian, and the pace[cdxxviii]
 Of Night by now touches Morocco’s strand.”
-
 Canto V
 The poets, continuing the ascent, meet a band of spirits who are astonished that Dante casts no shadow. These all died by violence and repented only at the last moment. Three of them speak to Dante in turn; Jacopo del Cassero; Buonconte da Montefeltro, who tells how his body was carried down a stream into the Arno, through the malignity of a devil who had in vain contended for his soul; and lastly Pia de’ Tolomei, done to death in secret by her husband.
 
@@ -5567,7 +5544,6 @@ I had made of me when the strong pangs came on.
 	Siena made me and Maremma unmade:
 	He knows who had ringed me with his jewel, when
 The vows of marriage we together said.”
-
 Canto VI
 Dante is beset by spirits, some of whom are named, desiring the intercession of their friends on earth, but gets free of them. Virgil observes a shade sitting alone and apart, and asks it to show them the quickest way of ascent. It is Sordello the thirteenth century poet, a Mantuan like Virgil. The two embrace when they learn that they are of the same city: and this provokes from Dante an impassioned outburst of indignation at the disunited and factious state of Italy, only to be remedied by the assertion of the Imperial authority; ending with a bitterly sarcastic description of Florence and the Florentines.
 
@@ -5599,7 +5575,7 @@ When I from all these spirits had gained release
 	Whose one prayer was that others pray for them
 	So that their way be hastened unto peace,
 I thus began: “Thou, O my Light, dost seem
-	Ina certain place expressly to gainsay
+	In a certain place expressly to gainsay
 	That prayer may alter the decree supreme.	[30]
 And these people who only for this pray,
 	Is it idle hope, then, that they entertain,
@@ -5647,8 +5623,8 @@ Leapt toward him from its place, crying “Mantuan!
 	I am Sordello, of thine own city.”
 	And each into the other’s arms they ran.
 Thou inn of sorrow, ah, trampled Italy!
-	No Lady of domains, but brothel of shamel
-	Ship without pilot on a stormy seal
+	No Lady of domains, but brothel of shame!
+	Ship without pilot on a stormy sea!
 That gentle spirit was thus quick to acclaim
 	His countryman and hail him there for friend	[80]
 	Merely at the sweet sound of his city’s name;
@@ -5660,7 +5636,7 @@ Search, miserable! all the shores around
 	If peace in any part of thee be found.
 What does it profit, that Justinian took
 	Thy bridle in hand, if empty be the seat?
-	Were'’t not for this, thou hadst earned less rebuke.	[90]
+	Were’t not for this, thou hadst earned less rebuke.	[90]
 Ah, ye that should be all-devout, and let[cdxl]
 	Caesar sit in the saddle, if indeed
 	God’s admonition ye do not forget,
@@ -5722,7 +5698,6 @@ And if thou wilt examine and see true,
 	Thou'lt see thyself in that sick woman’s shape
 	Who, laid on down, finds no rest, and can do	[150]
 Nothing but turn and turn, her pain to escape.
-
 Canto VII
 Sordello asks Virgil who he is, and on being told, pays homage to the great poet. Night is approaching, and Sordello explains that they can only mount by daylight; he therefore escorts them to a flowery dell, where are princes and rulers who had neglected their duties; among them he points out the emperor Rudolf; Philip III of France and Henry of Navarre; Peter III of Aragon; Charles I of Anjou; and Henry III of England.
 
@@ -5862,7 +5837,6 @@ He on the ground amongst them sitting lower
 	Is William the Marquis, with eyes upward thrown,[cdlix]
 	Through whom Alessandria and her war
 Make Monferrato and Canavese moan.”
-
 Canto VIII
 At sunset these souls join in the evening hymn; but they appear apprehensive, and two angels in green, with drawn swords, descend to take post on either side of the little valley and guard them from the visit of the serpent (of temptation). Sordello brings Dante and Virgil among the spirits, and Dante recognises Nino de’ Visconti, and they talk together. Dante now notes that the four stars of the morning have disappeared and three stars (symbols of the Theological Virtues) are shining in their place. The snake appears, but is driven off by the angels who swoop down like hawks. Conrad Malaspina asks Dante for news of his country, the Val di Magra. Dante replies that he has never been in those lands, but praises the Malaspini for their uprightness. Conrad predicts that before long Dante will know of the hospitality of his house by experience and not only by report.
 
@@ -5877,7 +5851,7 @@ When I let hearing from my ears be banned,
 	Uprisen, who craved an audience with its hand.
 It joined and lifted both its palms in prayer,	[10]
 	Fixing its eyes upon the East, as though
-	’Twere saying-to God: “For naught else have I care.”
+	’Twere saying to God: “For naught else have I care.”
 Te lucis ante I heard devoutly flow
 	Out of its mouth and with a note so sweet
 	It caused me quite out of myself to go.
@@ -6005,7 +5979,6 @@ Before this courteous opinion shall
 	Right in the middle of thy head be nailed—
 	Nail stronger than report of men withal—
 If that the course of judgment have prevailed.”
-
 Canto IX
 Dante falls into a deep sleep and dreams that he is carried up by an eagle into the sphere of fire. Waking suddenly, he finds himself with Virgil at a spot higher up the mountain and just below the gate of Purgatory proper. Virgil tells him that, while he slept, Lucy carried him up from the valley below. The gate of Purgatory is guarded by an angel sitting on the topmost of three steps, each differently coloured. Dante goes up to the gate and humbly craves admission. The angel inscribes the letter P (symbol of the seven deadly sins, Peccata) seven times on his forehead; then opens the gate with a golden and a silver key.
 
@@ -6154,7 +6127,6 @@ Just such an image did my senses gain
 	From what I heard, as from a choir is caught
 	When they to instruments accord their strain,
 And now the words are clear and now are not.
-
 Canto X
 The poets, now admitted to Purgatory, mount by a zigzag passage through the rock, till they reach a terrace, which runs round the entire mountain. On the outer rim is the precipitous slope; on the inner side the cliff is adorned with reliefs in white marble, representing types of Humility and taken both from sacred and pagan history. Dante marvels at their life-likeness. There now approaches a crowd of spirits, hardly appearing human at first because bowed down in agonised postures by the huge rocks which they bear. These are the Proud, expiating their sin.
 
@@ -6285,7 +6257,7 @@ Perceive ye not that we are worms, designed
 	To form the angelic butterfly, that goes[cdlxxxviii]
 	To judgment, leaving all defence behind?
 Why doth your mind take such exalted pose,
-	Since ye. disabled, are as insects, mean
+	Since ye, disabled, are as insects, mean
 	As worm which never transformation knows?
 Just as a figure sometimes may be seen	[130]
 	For corbel, roof or ceiling to sustain,
@@ -6297,11 +6269,10 @@ True it is they were contracted more or less
 	As more or less upon their backs they bore;
 	And he who seemed the most to acquiesce
 Weeping appeared to say: “I can no more.”
-
 Canto XI
 The souls of the Proud repeat a paraphrase of the Lord’s Prayer. Virgil asks of them the way to the nearest ascent; he is answered by Humbert Aldobrandesco. Dante then recognises Oderisi of Gubbio, an illuminator of manuscripts, who discourses on the transitoriness of human fame and tells the story of Provenzan Salvani of Siena.
 
-O our Father, who art in heaven above,[cdlxxxix]
+O OUR FATHER, who art in heaven above,[cdlxxxix]
 	Not as being circumscribed, but because toward
 	Thy first creation thou hast greater love,
 Hallowed thy name be and thy power adored
@@ -6421,7 +6392,7 @@ Your reputation is as grass in hue,
 And I to him: “Thy true word softens down
 	My swelling heart and healeth it of pride.
 	But of whom speak’st thou, and of whose renown?”	[120]
-Tis Provenzan Salvani,” he replied;
+“ ’Tis Provenzan Salvani,” he replied;
 	“And he is here because so bold he had grown,
 	Presuming all Siena to bestride.
 Thus goes he without rest as he has gone
@@ -6443,11 +6414,10 @@ Darkly, I know, I speak, and say no more.
 	But soon thy neighbours’ acts shall be for signs	[140]
 	Whereby to read the riddle thou’lt have power.
 This deed delivered him from those confines.”[cdxcvii]
-
 Canto XII
 Virgil bids Dante leave Oderisi, with whom he has been stepping, bowed in sympathy. They go on their way, and Dante is now admonished by Virgil to examine the pavement they are treading. On this are chiselled reliefs, showing examples of pride laid low. After they have gone some distance, they meet the angel who guards this terrace and who with a stroke of his wing erases one of the P’s from Dante’s forehead. They ascend a stair, like the one made to ease the ascent from Florence to San Miniato, and Dante is surprised to find that he now mounts more easily than he went on the level. This is because the P (the sin of pride) has been obliterated.
 
-LIKE oxen in the yoke, pace matching pace,
+LIKE OXEN in the yoke, pace matching pace,
 	That laden spirit I accompanied
 	So long as the sweet Teacher gave me grace;
 But when he said: “Press on now and leave his side,
@@ -6496,7 +6466,7 @@ O Rehoboam, here no threatening head[diii]
 	Thine image showeth; but a chariot now
 	Hurries thee away, ere chase come, full of dread.
 It showed further, the hard pavement, how[div]
-	Dearly Alemaeon made his mother pay	[50]
+	Dearly Alcmaeon made his mother pay	[50]
 	The unlucky necklace, to achieve his vow.
 It showed how his sons rushed on him to slay[dv]
 	Sennacherib; and how, their father killed,
@@ -6654,7 +6624,7 @@ So that in others quick may spring the seeds
 	But by the sight, which not less sorely pleads.
 And as to them the sun no boon affords,
 	So to the spirits, there where I have said,
-	Heavens light no bounty of itself accords.
+	Heaven’s light no bounty of itself accords.
 For the eyelids of them all with iron thread	[70]
 	Are stitched up, as is done to a wild hawk[dxi]
 	Because its spirit stays not quieted.
@@ -6741,7 +6711,7 @@ Thou'lt see them among that people in folly bred
 	Hope lose than seeking the Diana’s bed.
 But most shall the Admirals lose upon that shore.”
 Canto XIV
-Overhearing Dante’s talk, and learning that he is still alive, two spirits, Guy del Duca and Rinieri da Calboli, engage him in conversation. The former, discovering that Dante comes from the shores of the Arno, describes the course of that accursed river down a valley in which the inhabitants of each town it passes grow ever more brutish, till it reaches Pisa, the worst of all. He predicts what Florence is to suffer (in 1308) at the hands of Rinieri’s grandson, and goes on to condemn the people of his own Romagna for os degeneracy. Virgil and Dante leave this rope of spirits, and as they go on hear voices in the air warning against envy.
+Overhearing Dante’s talk, and learning that he is still alive, two spirits, Guy del Duca and Rinieri da Calboli, engage him in conversation. The former, discovering that Dante comes from the shores of the Arno, describes the course of that accursed river down a valley in which the inhabitants of each town it passes grow ever more brutish, till it reaches Pisa, the worst of all. He predicts what Florence is to suffer (in 1308) at the hands of Rinieri’s grandson, and goes on to condemn the people of his own Romagna for their degeneracy. Virgil and Dante leave this pair of spirits, and as they go on hear voices in the air warning against envy.
 
 WHO is this that circles round about our hill
 	Ere death have licensed him from earth to fly
@@ -6882,7 +6852,7 @@ And when our ears a truce from it could feel
 	The second lo! with such a crash and groan
 	Came, as the thunder upon thunder’s heel:
 “I am Aglauros who was turned to stone.”[dxxx]
-	Then I, to press close to the Poet, slept	[140]
+	Then I, to press close to the Poet, stept	[140]
 	With one foot backward and not forward thrown.
 Now all around the air in quiet slept;
 	And he was saying: “That was the hard bit
@@ -6894,7 +6864,6 @@ The heavens call to you and around you glide
 	In circle, and their eternal beauties show,
 	And with earth only is your eye satisfied,	[150]
 Wherefore he who discerns all battereth you.”
-
 Canto XV
 It is now afternoon, when the poets are dazzled by the brightness of an angel who points out to them the next ascent. As they climb upward, Dante reminds Virgil of something which had perplexed him in Guido del Duca’s speech; and Virgil explains the difference between partnership in material goods and partnership in spiritual goods. They reach the third terrace, and Dante is caught up in an ecstatic vision and sees examples of gentleness (the Virgin Mary, Pisistratus, St. Stephen). He comes to himself, and the two continue their journey, till they encounter a dark smoke which surrounds them and robs them of light and air.
 
@@ -6908,7 +6877,7 @@ The middle of the nose the full beam met,
 	For we had made the mount’s encirclement
 	So far that due West now our feet were set,
 When heavy on my brows seemed to be bent	[10]
-	A brilliance such as ne’er. before opprest;
+	A brilliance such as ne’er before opprest;
 	And the untold things were an astonishment.
 Wherefore I raised my hands up to the crest
 	Of the eyebrows, and so made the sun less great
@@ -6919,7 +6888,7 @@ As when from mirror or from water, straight
 Which it descends by, and as far depart
 	From a stone’s falling line in equal space,	[20]
 	As proveth both experiment and art,
-‘Even so reflected light upon my face
+Even so reflected light upon my face
 	Shining in front of me appeared to smite,
 	Wherefore my eyes were swift themselves to abase.
 “Sweet Father, what is that from which my sight,”
@@ -7022,7 +6991,7 @@ And more than half a league with eye that swims
 	And legs that stagger comest on thy way
 	Like him whom wine or heavy sleep bedims?”
 “Sweet Father mine, listen, and if I may”
-	I said, “Tl tell thee what I saw appear
+	I said, “I’ll tell thee what I saw appear
 	When from me thus my legs were taken away.”
 And he: “Had’st thou a hundred masks to wear
 	Over thy face, thou couldest not but choose
@@ -7043,7 +7012,6 @@ And lo, by little and little a smoky cloud
 	Rolled itself onward toward us, dark as night,
 	And every place of refuge overflowed:
 This robbed us of the pure air and of sight.
-
 Canto XVI
 The poets are now on the terrace of the Wrathful, who move in a dark cloud of stinging smoke and are heard praying for peace and mercy. One of the spirits questions them, and Dante enters into talk with him: He is Mark Lombardo, and he mourns over the corruption of the times; which prompts Dante to ask if this is due to the stars or innate human depravity. Mark replies that the stars have their influence, but man has free will; and he attributes the degeneracy of the age to the usurpation by the Papacy of the temporal power.
 
@@ -7172,7 +7140,7 @@ True, there are still three elders in whose name
 	Ere to a better life God carry them,
 Conrad of Palazzo and the good Gerard
 	And Guy of Castel, who is better styled
-	“The guileless Lombard’ in the Frenchmen’s word.
+	“The guileless Lombard” in the Frenchmen’s word.
 Henceforward say that Rome’s church, having willed
 	Confusion of two rules, falls in a slough,
 	And both she and her burden are defiled.”
@@ -7192,7 +7160,6 @@ See, raying through the smoke, now waxeth white
 	The gleaming of the sun; the angel is there:
 	Ere I be seen of him, I must be quit.”
 So he turned back, nor more from me would hear.
-
 Canto XVII
 Dante gets clear of the smoke, as the sun is setting. And again he falls into a trance, in which appear examples of wrath (Procne, Haman, Amata) and is waked by an angel who shows the way of ascent to the next terrace. The poets mount and reach the terrace, but cannot go farther, because it is night. Dante asks Virgil what sin is purged there. It is the sin of spiritual Sloth. Virgil takes the opportunity to expound the system of Purgatory. In the three circles through which they have passed are punished Pride, Envy, and Anger—all perversions of love or desire. Above, in three circles, are those whose desire for temporal goods was in excess and whose sins were Avarice, Gluttony, and Lust.
 
@@ -7329,16 +7296,16 @@ If laggard be the love that makes the quest	[130]
 	For sight of it or winning it, this zone
 	Chastises you therefor, the sin confest.
 Another good there is which blesses none.
-	Tis not felicity, ’tis not the Good
+	’Tis not felicity, ’tis not the Good
 	Essence, of all good, fruit and root alone.
 The love that this good hath too hotly wooed
 	Is mourned above us in three circles: how
 	’Tis reckoned as tripartite, since I would
 Thou seek it out thyself, I tell not now.”
 Canto XVIII
-Dante, still not satisfied, asks Virgil to explain more fully the nature of love, to which his argument had reduced every good work and also its opposite. Virgil discourses on this theme, and solves Dante’s further doubt as to what moral merit and demerit consist in, explaining the function of free will. It is now near midnight, and the moon has appeared from behind the mountain. Dante begins to drowse, when he is startled by a throng of spirits who overtake them, running at full speed. These are the Slothful, expiating their sins in the hurry of their zeal. Two of them run in front, proclaiming examples of zeal. A spirit who was Abbot of San Zeno in Verona tells the poets to follow and they will find the passage upward. He condemns Albert della Scala for appointing his depraved son to the abbacy; then rushes on. Last come two shades, proclaiming examples of sloth. Dante, again drowsy, falls asleep.
+Dante, still not satisfied, asks Virgil to explain more fully the nature of love, to which his argument had reduced every good work and also its opposite. Virgil discourses on this theme, and solves Dante’s further doubt as to what moral merit and demerit consist in, explaining the function of free will. It is now near midnight, and the moon has appeared from behind the mountain. Dante begins to drowse, when he is startled by a throng of spirits who overtake them, running at full speed. These are the Slothful, expiating their sins by the hurry of their zeal. Two of them run in front, proclaiming examples of zeal. A spirit who was Abbot of San Zeno in Verona tells the poets to follow and they will find the passage upward. He condemns Albert della Scala for appointing his depraved son to the abbacy; then rushes on. Last come two shades, proclaiming examples of sloth. Dante, again drowsy, falls asleep.
 
-THE profound Teacher of his argument
+THE PROFOUND Teacher of his argument
 	Had made an end, and with an earnest look
 	Searched in my face if I appeared content;
 And I, whom a new thirsting overtook,
@@ -7486,7 +7453,7 @@ And thinking was transmuted into dream.
 Canto XIX
 In a dream Dante has a vision of the Siren (symbolising worldly enticements). A lady from heaven appears in this dream; and Virgil, at her bidding, exposes the Siren’s real foulness. Dante is roused by Virgil, the sun having now risen, and an angel speeds them up the passage to the fifth terrace, where are the souls of the avaricious and the prodigal, lying prone on the ground. Virgil asks the way, and is answered by one who proves to be Pope Adrian V. He tells them that he was possessed by Avarice till he reached the highest office, and then turned to God. Dante kneels, to show his reverence, but is told by the spirit to rise.
 
-IN THAT hour when the heat of day no more
+IN THAT HOUR when the heat of day no more
 	Can warm the Moon’s cold influence, and it dies
 	O’ercome by the earth or whiles by Saturn’s power;
 When geomancers see in the East arise[dlxvi]
@@ -7631,7 +7598,6 @@ A niece yonder, Alagia named, I have,[dlxxvi]
 	Good in herself, so only that our house
 	Her nature by example not deprave.
 She only is there to assist me with her vows.”
-
 Canto XX
 The souls of the avaricious are so many that Dante, to pass them, must keep close to the inner side of the cliff. And as he goes, he hears a spirit celebrating examples of poverty and generosity (The Virgin Mary, Fabricius, St. Nicholas). Questioning it, the spirit discloses that it is Hugh Capet, and denounces the greed of his descendants who sat on the throne of France. Among them were Charles I of Anjou, to whom Dante attributes the death of St. Thomas Aquinas (a now discredited tradition); Charles of Valois, who, like Charles I of Anjou, invaded Italy and brought about the triumph of the Blacks in Florence and the banishment of the Whites, including Dante: also Philip the Fair, who gave Pope Boniface VIII up to his enemies and who attacked the Order of the Templars. The spirit then tells how at night they proclaim warning examples of avarice. The poets depart, and suddenly the whole mountain quakes and a cry of “Glory to God on high” ascends on every side. Dante is awed and wonders what this may mean.
 
@@ -7789,7 +7755,7 @@ Thus I went on, fearful and full of thought.
 Canto XXI
 The poets, hastening along, are overtaken by a spirit, who greets and questions them. Virgil explains their errand, and asks the cause of the trembling of the mountain. The shade explains that this happens when a soul, feeling itself purged of its sin, is free to rise from Purgatory. This has just happened to himself. Virgil asks the shade who he is, and he tells them that he is Statius the poet, and speaks warmly of his debt to Virgil’s poetry. Dante smiles, and on further question it is revealed that he is in Virgil's presence, and Statius does obeisance to the Master.
 
-THE natural thirst which is unquenchable
+THE NATURAL THIRST which is unquenchable
 	Save by the water the Samaritan[dxciii]
 	Poor woman asked the boon of at the well
 Wrought on me; and now, my Leader in the van,
@@ -7925,11 +7891,10 @@ And he, uprising: “Now thou knowest what I
 	Profound love toward thee warmeth my heart-strings
 	When I our nothingness have so forgot,
 Handling the shadows as substantial things.”
-
 Canto XXII
 Mounting the rocky stair, at which an angel has erased another P from Dante’s forehead, the three reach the sixth terrace, where Gluttony is punished. Virgil asks Statius how it was he could be guilty of avarice; and Statius explains that his was the opposite sin of prodigality, for both are expiated in the same circle; and he further explains how he became a Christian. He then asks Virgil about the fate of the ancient poets, and Virgil tells him that they are in Limbo, and some of the people of Statius’ Thebaid are with them. Their talk is interrupted at sight of a tree, full of fruit, on which a fountain sprays. A voice coming out of it recites examples of temperance.
 
-BY now we had left the angel in his place,
+BY NOW we had left the angel in his place,
 	Him who had turned us to the sixth circle,
 	Having first razed a scar from off my face,
 And had proclaimed those spirits blessed who dwell
@@ -8084,7 +8049,7 @@ Honey and locusts were the only meat
 	And therefore is he glorious, and so great
 As in the gospel is revealed to you.”
 Canto XXIII
-The cry is heard of spirits who now overtake the pilgrims. Gluttons in life, they are now emaciated to an extreme degree, reminding Dante of Erysichthon, punished with hunger by Demeter, and of Mary, a Jewess, who devoured her own child during the siege of Jerusalem. So it is only by the voice that Dante recognises the friend of his youth, Forese Donati. Each is eager to learn about the other. Forese explains the nature of the punishment in this pots and tells how it is through the intercession of his widow Nella that he has been spared the long delay in Ante-Purgatory; and denounces the dissoluteness of the women of Florence, shameless as those of Barbagia, a wild district in Sardinia.
+The cry is heard of spirits who now overtake the pilgrims. Gluttons in life, they are now emaciated to an extreme degree, reminding Dante of Erysichthon, punished with hunger by Demeter, and of Mary, a Jewess, who devoured her own child during the siege of Jerusalem. So it is only by the voice that Dante recognises the friend of his youth, Forese Donati. Each is eager to learn about the other. Forese explains the nature of the punishment in this circle and tells how it is through the intercession of his widow Nella that he has been spared the long delay in Ante-Purgatory; and denounces the dissoluteness of the women of Florence, shameless as those of Barbagia, a wild district in Sardinia.
 
 WHILE I was thus fixing mine eyes at gaze
 	Through the green foliage, even as is done
@@ -8219,7 +8184,6 @@ Virgil is he who hath assured me this”	[130]
 	I pointed to him; “and this other shade[dcxxxi]
 	Is he for whom shook in each precipice
 Your realm, from which his quittance now is paid.”
-
 Canto XXIV
 Dante asks about Forese’s sister Piccarda and learns that she is in Paradise. Forese then points out to him certain shades of note. Among them is Buonagiunta, a poet of Lucca, who predicts that a lady, Gentucca, will make Lucca pleasing to Dante. He goes on to speak of the “sweet new style” of the Florentine school of poets to which Dante belonged, superior in naturalness and sincerity to the school of Jacopo of Lentini in Sicily (called The Notary), Guittone of Arezzo, and Buonagiunta himself. Dante speaks of the miseries of Florence, and Forese foretells the death of his brother Corso Donati, leader of the Blacks, and chief cause of those miseries. Dante next observes another tree, from which comes a voice reciting examples of gluttony; the Centaurs, and the Hebrews rejected by Gideon (Judges, 7). As the three poets go on silently, they hear a voice, and Dante is dazzled by the resplendent apparition of the Angel of Temperance.
 
@@ -8236,7 +8200,7 @@ But, if thou know’st, where is Piccarda, say;[dcxxxiii]	[10]
 	And say if I see any whom I should
 	Note well, of these whose eyes so on me stay.”
 “My sister who was beautiful and good,
-	I know not which most, triumphs now to’ wear
+	I know not which most, triumphs now to wear
 	Her glad crown in Olympus’ high abode.”
 So said he: and then: “ ’Tis not forbidden here
 	To name each one, since so drained out and dim
@@ -8519,11 +8483,10 @@ This ritual, I think, for them doth last
 	For all the time the fire upon them glows.
 	And with such cure and diet of such taste
 Behoveth that the wound at last should close.
-
 Canto XXVI
 Proceeding along the circle, the three poets go in single file, keeping to the outer edge, because of the fire. Dante’s shadow makes the flames seem redder, which astonishes the spirits. One of them, who is Guido Guinicelli, questions Dante, whose attention is however distracted by a throng coming towards them who greet the others briefly; they are those who were guilty of unnatural lust, while the sin of the first group was “hermaphrodite,” or bi-sexual, but infringed human law. This is explained by Guinicelli, who now makes himself known and is greeted with reverence by Dante as his “father” in poetry (as the sons of Hypsipyle recognized and embraced their mother in Statius’ poem). But Guinicelli deprecates his praise and points to the shade of Arnaut Daniel, the Provençal poet, as a better craftsman in verse, surpassing his rival Giraut de Borneuil of Limoges. Guinicelli disappears into the flame, and Dante greets Arnaut, who replies in the Provençal tongue.
 
-WHILE thus along the road’s edge we progressed
+WHILE THUS along the road’s edge we progressed
 	One after one, “By my instruction’s light”
 	Said the good Master, “see thou profitest.”
 The sun smote on my shoulder from the right
@@ -8816,7 +8779,6 @@ Expect from me no word or signal more.
 	Thy will is upright, sound of tissue, free:	[140]
 	To disobey it were a fault; wherefore
 Over thyself I crown thee and mitre thee.”[dclxxi]
-
 Canto XXVIII
 Dante sees before him the Earthly Paradise, which crowns the Mount, and sets out to explore “the divine forest.” The grass is full of flowers, and birds sing on the boughs. He is stopped by the stream of Lethe, and on the farther side of it perceives a lady gathering flowers and singing. She is Matilda (as we learn from Canto XXXIII), a lady generally identified with a Countess of Tuscany (1046-1115), supporter of Pope Gregory VII, but here representing the active life and the guide of Dante towards Beatrice (the contemplative life). Dante asks her to explain how it is that wind blows and water runs at a height where, according to Statius, there is no disturbance and no rain. She satisfies his curiosity and tells him how the water is supernaturally constant and replenished, pouring from a fountain which on one side is called Lethe and has the property of obliterating memory of sin, and on the other Eunoë, which restores the memory of good deeds. Here, she adds, was the abode of man in his state of innocency.
 
@@ -9238,7 +9200,7 @@ Therefore my answer shall the more care keep
 	So that transgression equal sorrow reap.
 Not only by operation of great spheres[dccx]
 	Which to some certain end each seed uptrain	[110]
-	According as the starry voice it hears,,
+	According as the starry voice it hears,
 But bounty of heavenly graces, which for rain
 	Have exhalations born in place so high
 	That our eyes may not near to them attain,
@@ -9273,7 +9235,6 @@ The ordinance of high God were set at naught
 	If Lethe were passed over into peace,
 	And such viand enjoyed, without some scot
 Of penitence that may the tears release.”
-
 Canto XXXI
 Dante, accused by Beatrice, confesses his sin and is filled with penitence. Overwhelmed by the severity of Beatrice’s words, and by his own remorse, he falls senseless. When he recovers from his faint, he finds that Matilda is drawing him across Lethe stream, in which she immerses him. The four dancers (the four cardinal virtues) lead him up to the Gryphon, where Beatrice is standing; in her eyes the Gryphon is mirrored, now in one form now in the other. The other three (the Theological Virtues) then come forward, dancing, and implore Beatrice to smile upon her faithful servant.
 
@@ -9335,7 +9296,7 @@ Truly oughtest thou at the first arrow’s sting
 	Of those lures, to rise after me on high,
 	Who was no more made in such fashioning.
 Nay, nor should girl or other vanity[dccxv]
-	Of such brief usage have thy wings es sea
+	Of such brief usage have thy wings down-weighed
 	To wait for other coming shafts to fly.	[60]
 The young bird waiteth two or three indeed;
 	But in the eyes of the full-fledged in vain
@@ -9422,9 +9383,8 @@ That would not seem to have his mind o’er-weighed
 	Striving to paint thee as thou appeared’st where
 	To figure thee, heaven’s harmonies are made,
 When thou didst unveil to the open air?
-
 Canto XXXII
-Dazzled to blindness for a while by the eyes of Beatrice, Dante becomes aware that the procession has wheeled round and is returning to face the sun. The Gryphon moves the car, and Dante follows it, with Matilda and Statius, through the wood. They come to a tree, despoiled of flowers and leaves; and the Gryphon fastens the car to the trunk of it; whereon it puts forth all its foliage again. Dante falls into a sleep and waking sees Beatrice guarding the car, the Gryphon hove ascended to heaven, while the seven Virtues make a ring round her. An eagle swoops down on the tree, stripping it of its flowers and lies once more. Then a vixen leaps into the car, but is put to flight by Beatrice. The eagle descends again, enters the car and leaves it clothed with his plumage. Between the wheels the earth gapes and a dragon comes forth and wrenches off part of the car. The remnant of the car is again covered in an instant by the plumes; from it seven heads emerge; and seated on the car appear a harlot and a giant, by whom it is dragged away.
+Dazzled to blindness for a while by the eyes of Beatrice, Dante becomes aware that the procession has wheeled round and is returning to face the sun. The Gryphon moves the car, and Dante follows it, with Matilda and Statius, through the wood. They come to a tree, despoiled of flowers and leaves; and the Gryphon fastens the car to the trunk of it; whereon it puts forth all its foliage again. Dante falls into a sleep and waking sees Beatrice guarding the car, the Gryphon having ascended to heaven, while the seven Virtues make a ring round her. An eagle swoops down on the tree, stripping it of its flowers and lies once more. Then a vixen leaps into the car, but is put to flight by Beatrice. The eagle descends again, enters the car and leaves it clothed with his plumage. Between the wheels the earth gapes and a dragon comes forth and wrenches off part of the car. The remnant of the car is again covered in an instant by the plumes; from it seven heads emerge; and seated on the car appear a harlot and a giant, by whom it is dragged away.
 
 These actions and transformations typify crises and vicissitudes in the history of the Church. The harlot represents the Papacy under Boniface VIII and Clement V, the giant the French monarchy.
 
@@ -9736,13 +9696,12 @@ Back from that wave’s most holy privilege
 	I turned me, re-made, as the plant repairs
 	Itself, renewed with its new foliage,
 Pure and disposed to mount up to the stars.
-
 PARADISO
 Canto I
 The poet invokes the aid of Apollo in attempting the hardest part of his theme, the description of Paradise.
 On earth, in Italy, it is evening; but at the summit of the Mount of Purgatory it is near noon about the time of the vernal equinox; the sun being in Aries, a propitious conjunction. Dante and Beatrice are suddenly transported to the sphere of fire, between the earth and the moon. Dante is so “transhumanised” that he is now able to hear the music of the spheres; but at first he is bewildered, not understanding, till Beatrice explains that he has left the earth behind. He is still puzzled to know how it is that he has risen, more swiftly than air or fire, against the laws of gravitation. Beatrice tells him that the instinct implanted in the soul is to rise, as fire rises, towards heaven; this belongs to the order of the universe, in which each part has its own function. Dante has been liberated from the distractions which, through man’s possession of free will, sometimes cause the soul to be diverted from its aim.
 
-THE glory of Him who moveth all that is
+THE GLORY of Him who moveth all that is
 	Pervades the universe, and glows more bright
 	In the one region, and in another less.
 In that heaven which partakes most of His light
@@ -9888,7 +9847,7 @@ Thereon toward heaven she turned her gaze again.
 From the sphere of fire Dante and Beatrice rise to the Heaven of the Moon with unimaginable speed, like the flight of a bolt from a crossbow. (The movements are described in inverted order to suggest its instantaneous swiftness.) They enter the pearl-like substance of the moon; and Dante wonders how, still in the body, he can penetrate into it—a mystery like the union of divine and human nature in Christ. He now asks Beatrice the cause of the spots in the moon, first giving the explanation he had hitherto maintained, that they are due to density and rarity. Beatrice refutes his error and then gives the true account. Each sphere is quickened and governed by the Intelligence presiding over it; and the Intelligence of the eighth heaven distributes its influence among the fixed stars. But this influence is modified by the character of the bodies it enters; hence the variation in degree of brilliance among the stars; hence also the brightness and dimness in the moon.
 In refuting Dante’s explanation Beatrice enforces theory by experiment, the modern method, here praised as the fountainhead of the arts. This is remarkable in a medieval poem.
 
-O YE, EMBARKED in a small skiff, who long
+O YE, embarked in a small skiff, who long
 	To listen, having followed on its way
 	My boat, that goes continuing in song,
 Turn again home to sight of shore and bay!
@@ -10037,9 +9996,9 @@ From this comes, not from dense and rare, what seems
 	This is the formal principle that schemes,
 Conformed to its own goodness, dim and bright.”
 Canto III
-Dante becomes aware of faces appearing eager to speak to him. At first he supposes them to be reflections (unlike Narcissus, who supposed his reflection to be real). One of these spirits is Piccarda, about whom Dante had asked her brother Forese in Purgatory (Canto XXIV). She is with those placed in the sphere of the Moon because of vows Fakes or imperfectly performed. Dante asks if those who are in this lowest sphere ever crave for a more exalted place in Paradise. She tells him that this is impossible; it is of the essence of their bliss merely to fulfil the divine will: “In His will is our peace.” And she goes on to tell how she took the veil in the Order of Saint Clare, but was forcibly taken from her convent (to be married to a noble). Among these spirits is the Empress Constance, who also was torn from her convent and married to Henry VI, the second of the three “whirlwinds” from Suabia (line 119); the first being Frederick Barbarossa, and the third Frederick II; all these emperors were men of tempestuous energy.
+Dante becomes aware of faces appearing eager to speak to him. At first he supposes them to be reflections (unlike Narcissus, who supposed his reflection to be real). One of these spirits is Piccarda, about whom Dante had asked her brother Forese in Purgatory (Canto XXIV). She is with those placed in the sphere of the Moon because of vows broken or imperfectly performed. Dante asks if those who are in this lowest sphere ever crave for a more exalted place in Paradise. She tells him that this is impossible; it is of the essence of their bliss merely to fulfil the divine will: “In His will is our peace.” And she goes on to tell how she took the veil in the Order of Saint Clare, but was forcibly taken from her convent (to be married to a noble). Among these spirits is the Empress Constance, who also was torn from her convent and married to Henry VI, the second of the three “whirlwinds” from Suabia (line 119); the first being Frederick Barbarossa, and the third Frederick II; all these emperors were men of tempestuous energy.
 
-THAT Sun which fired my bosom of old with love[dcclxxxiv]
+THAT SUN which fired my bosom of old with love[dcclxxxiv]
 	Had thus bared for me in beauty the aspect sweet
 	Of truth, expert to prove as to disprove;
 And I, to avow me of all error quit,
@@ -10167,7 +10126,7 @@ My sight, which followed far as it was powered,
 	To the other mark, more ardently desired,
 And Beatrice, only Beatrice, it sought.
 	But she upon my look was flaming so
-	That at the first my sight endured it. not;
+	That at the first my sight endured it not;
 And this made me for questioning more slow.	[130]
 Canto IV
 Two questions perplex Dante’s mind; but, equally desirous to learn the answer to each of them, he is paralysed into silence. Beatrice, reading his thoughts, gives them utterance. One of Dante's doubts refers to Plato’s theory, in the Timaeus, that each soul returns after death to the star from which it came. This involves a poisonous heresy, since the orthodox view is that the blessed all have their home in the Empyrean, though they show themselves to Dante in the different spheres. The other question is prompted by the lower place assigned to those who were forced to break their vows; which seems inconsistent with divine justice. Beatrice explains the difference between the absolute and the relative will.
@@ -10244,7 +10203,7 @@ That heavenly justice should unjust appear
 	Of faith; no heresy corrupteth here.
 But seeing that your understanding, bent	[70]
 	Upon this truth, can pierce to it unconfused,
-	Till make thee, according to thy wish, content.
+	I’ll make thee, according to thy wish, content.
 If violence is, when he who is abused[dccxciv]
 	Nowise connives with what he is mastered by,
 	Then these souls were not on that count excused.
@@ -10458,11 +10417,10 @@ So did the sacred presence hide within
 	Its beams, by joy increased in radiance,
 	And, close enclosed thus, gave me answer in
 The manner that the following canto chants.
-
 Canto VI
 Justinian tells Dante who he is, and what he had done as a Law-giver. He then speaks of the achievements of Rome, symbolised by the Roman Eagle; and recounts her history, from the westward journey of the Trojans and their settlement in Italy to the time of the earlier Caesars, and the destruction of Jerusalem by Titus. This last is conceived of as punishment of the Jews for having put Christ to death; but the crucifixion was itself the punishment of mankind, in Christ's person, for “the ancient sin” of Adam and was inflicted by Pilate as representative of the Roman Empire, regarded by Dante as a divine institution. Justinian recounts this history in order to denounce the factions of Dante’s day who would break up the unity of the Empire; the Guelfs, under their leader “the new Charles” (Charles II of Apulia) who would replace the “world’s great ensign,” the Eagle, by the lilies of France; and the Ghibellines, who want to appropriate it for their party. Justinian then explains that the spirits who are assigned to “this little planet,” Mercury, are there because they were ambitious of fame and honour and not only aiming at the glory of God; hence placed in a lower sphere. He concludes with the story of Romeo, minister of Raymond Berenger of Provence, whose four daughters were, through his efforts, married to four kings; but being falsely accused, he was driven into exile. The last lines perhaps allude obliquely to Dante’s own exile.
 
-WHEN Constantine had turned the Eagle’s head[dcccviii]
+WHEN CONSTANTINE had turned the Eagle’s head[dcccviii]
 	Against heaven’s course which it of old pursued
 	With him who took Lavinia to his bed,
 Twice a hundred years and longer posted stood
@@ -10604,7 +10562,6 @@ Old and poor, thence, an outcast, was he thrust;
 	And if the world knew what a heart he bore	[140]
 	Within him, begging life from crust to crust,
 Much as it praises, it would praise him more.”
-
 Canto VII
 After Justinian and his companion spirits have resumed their place in the celestial dance, Beatrice dispels certain difficulties which had arisen in Dante’s mind concerning the doctrine of Redemption. The first is the question: Why, if Christ was justly put to death, could it be just to punish those who did this? Beatrice explains that he was justly punished as regards his human nature, unjustly as being God. The next question is: Why did God choose this particular mode of redeeming mankind and not some other mode? The answer is that man could only recover what he lost by the Fall either through atoning himself for Adam’s sin (and no offering of his was adequate) or through the divine mercy. But God combined “the two ways,” both mercy and justice, for by Christ’s incarnation and death man recovered the means of being pardoned, while at the same time justice was satisfied. Beatrice goes on to enlighten Dante on another point, and explains the difference between those created things which are corruptible and those which are incorruptible—the latter being acted upon immediately by the Divine Power, the former by the secondary influences of the stars.
 
@@ -10756,11 +10713,10 @@ For thee this argument may further prove
 	Your resurrection, if the thought be weighed
 	How human flesh was formed to breathe and move,
 When the first parents both of them were made.”
-
 Canto VIII
 Dante and Beatrice have now arrived in the third heaven, that of Venus. A band of spirits, abandoning their circling movement, come to meet them; and one spirit addresses Dante as one he had known on earth, quoting the first line of a canzone by the poet. This is Charles Martel (d. 1295), King of Hungary; he tells of the several kingdoms to which he was heir; of the “Sicilian Vespers,” the massacre provoked by the misrule of his grandfather; and of the folly of his brother Robert in encouraging the rapacity of his Catalonian mercenaries. His allusion to the degeneracy of the avaricious Robert from his generous father leads Dante to ask about the cause of degeneracy in families. Charles explains that diversity is necessary for social life, variety of function requiring variety of character.
 
-THE world was, to its peril, wont to hold
+THE WORLD was, to its peril, wont to hold
 	That the fair Cyprian rayed love’s fever round,[dcccxxxviii]
 	Where with her the third epicycle rolled;
 Wherefore not only were her rites renowned
@@ -10908,7 +10864,6 @@ But ye perversely in religion place
 	Him born to gird the sword upon his side,
 	And make him king who should a pulpit grace;
 Wherefore from the right road ye wander wide.”
-
 Canto IX
 Dante apostrophises Clemence, Charles’s daughter, still living and Queen of France, assuring her of retribution to be exacted for the wrongs suffered by Charles’s family. 
 Another spirit now makes itself known: Cunizza da Romano, sister of the notorious tyrant, “the fiery brand,” Ezzelin. She tells of the crimes of the people of her country, especially of the bishop of Feltro who gave up to execution a number of Ferrarese who had taken refuge with him. (Malta, line 54, was the name of several prisons; here perhaps one at Bolsena.) Fulk is the name of the next spirit to appear. He was born at Marseilles, but without naming the place lets it be inferred from elaborate geographical indications. First a troubadour, then a monk, Fulk ended as a bishop. Like Cunizza, he feels no remorse for the amours of his youth. He points out the spirit of Rahab the harlot, and denounces the corruption of the Papacy and priesthood. (The “accursed flower,” line 180, is the lily stamped on the golden florin.)
@@ -11055,11 +11010,10 @@ But Vatican and the other parts of Rome
 	That are its holy places, where lie hid	[140]
 	Soldiers of Peter, each beneath his tomb,
 Shall of this whoredom speedily be rid.”[dccclxxvii]
-
 Canto X
 Dante and Beatrice are borne aloft to the fourth heaven, that of the sun. Here are the theologians. The Canto begins with an exhortation to the reader to admire the beauty and precision of the order of the universe; the first lines referring to the three Persons of the Trinity. A band of twelve spirits make themselves into a circle or garland round Dante and Beatrice in the centre. One of these, Thomas Aquinas, names the others, one by one. They are Albertus Magnus of Cologne, Gratian, Peter Lombard, Solomon, Dionysius the Areopagite, Orosius, Boethius, Isidore of Seville, the Venerable Bede, Richard of St. Victor, and Sigier of Brabant.
 
-ON His Son gazing, with the Love that still
+ON HIS SON gazing, with the Love that still
 	From one and from the other's breath proceeds,
 	The Power primordial and ineffable
 Made with such order all that circling speeds
@@ -11234,7 +11188,7 @@ And straightway, from within that blessed sheen
 Thou questionest: and, that thou construe right
 	My words, would’st have me more at large re-tell
 	In sifted phrase, clearer to earthly sight,
-What I but now was saying, “He thriveth well,’
+What I but now was saying, “He thriveth well,”
 	And where I said: ‘No second ever rose.’
 	And here on some distinctions must we dwell.
 The providence, which doth the world dispose
@@ -11427,7 +11381,7 @@ Dominic was he named; and I aver	[70]
 Messenger and familiar of Christ
 	He showed him; for his love’s first loyalties
 	Clung to the first great counsel given by Christ.[cmxxx]
-Often, awake and silent on his knees, ~
+Often, awake and silent on his knees,
 	His nurse would find him on the floor, as who
 	Should there be saying: ‘I am come for this,’
 O father of him called truly Felix! O
@@ -11498,7 +11452,7 @@ So mighty a Paladin I celebrate,
 	Of brother Thomas and his speech discreet;
 And moved is all this company with me.”
 Canto XIII
-In two concentric circles the twenty-four theologians dance, singing, round Dante and Beatrice. When their chant and movement are completed, the spirit of St. Thomas again addresses Dante. He has solved one of Dante’s difficulties and now undertakes to solve the other, which arose from. his having said that Solomon had no peer in wisdom. He is aware of Dante’s objection that Adam and Christ in His human nature were supreme in wisdom, being directly created by God; but he explains that the wisdom Solomon asked for and obtained was not the speculative wisdom of a philosopher but the practical wisdom necessary to the office of a king. He closes with a warning against hasty judgments and rashly adopted opinions.
+In two concentric circles the twenty-four theologians dance, singing, round Dante and Beatrice. When their chant and movement are completed, the spirit of St. Thomas again addresses Dante. He has solved one of Dante’s difficulties and now undertakes to solve the other, which arose from his having said that Solomon had no peer in wisdom. He is aware of Dante’s objection that Adam and Christ in His human nature were supreme in wisdom, being directly created by God; but he explains that the wisdom Solomon asked for and obtained was not the speculative wisdom of a philosopher but the practical wisdom necessary to the office of a king. He closes with a warning against hasty judgments and rashly adopted opinions.
 
 LET him imagine, who desires to grasp
 	What now I saw (and let him, while I speak,
@@ -11574,7 +11528,7 @@ Whence comes it that, though of the self-same kind,	[70]
 	And ye are born with diverse gifts of mind.
 Were the heavens operant in propitious course,
 	And perfect and precise the moulded wax,
-	The seals full brilliance would shine out perforce;
+	The seal’s full brilliance would shine out perforce;
 But Nature’s rendering ever something lacks,
 	Working as the artist who hath skill by dint
 	Of his art’s practice but a hand that shakes.
@@ -11646,7 +11600,7 @@ For the one yet may rise and the other fall.”
 Beatrice begins to speak to Dante; and since she speaks from the centre of the circle of spirits and St. Thomas from the circle, the image is suggested to Dante of the movement of water in a bowl, moving outward or inward according as the bowl is struck from outside or inside. What is in Dante’s thought is apparent to Beatrice before he has formulated it: he wants to know if the glorified body, after the resurrection, will retain its lustre eternally; and, if it does, will the eyes endure to look on its brilliance. She asks the spirits to satisfy him on these points; and Solomon answers both questions in the affirmative. Other spirits now appear, at first faintly descried like stars at evening, and they form themselves into a third circle round the other two.
 Dante and Beatrice now mount to the fifth heaven. It is the heaven of Mars; and here the spirits of warriors and martyrs appear in the form of a dazzling cross.
 
-FROM centre up to rim, and so from rim
+FROM CENTRE up to rim, and so from rim
 	To centre, water moves within a bowl
 	As struck from outside or inside the brim.
 Into my mind what thus I speak of stole
@@ -11742,7 +11696,7 @@ Nor did the sacrificial ardour fade
 For with such redness, and so luminous,
 	Splendour appeared within two beams; whereat
 	I cried: “O Sun that dost adorn them thus!”
-As “twixt the poles, with lesser lights and great
+As ’twixt the poles, with lesser lights and great
 	Patterned, the Galaxy so whitely glows[cmlxvii]
 	That thereof sages question and debate,
 So in the depth of Mars were clustered those	[100]
@@ -11765,8 +11719,8 @@ Dance through the ray wherewith is often streaked
 	Men’s art contrives, their comfort to protect.
 As viol and harp in harmony commune
 	With many strings that chime sweet on the ear
-	Of one who apprehendeth not the tune,
-So from the lights I there beheld appear	[120]
+	Of one who apprehendeth not the tune,	[120]
+So from the lights I there beheld appear
 	Was harmonised a music on the Rood
 	That ravished me, though the import was not clear.
 I knew the hymn to be of lofty mood
@@ -12239,12 +12193,11 @@ Since the hearer’s spirit is not comforted
 	Nor knits its faith by an example mean	[140]
 	Which hath its roots obscure and darkly hid,
 Nor by what proof else is not plainly seen.”
-
 Canto XVIII
 Cacciaguida points out to Dante a number of illustrious souls, who appear as stars on the cross, and move as they are named. Dante and Beatrice now ascend from the heaven of Mars to the “temperate star” of Jupiter, the sixth heaven, where are spirits conspicuous for justice. The lights in which the spirits are hidden form themselves into the pattern of an eagle.
 At the end of the Canto Pope John XXII is denounced for his love of money. The Florentine florin was stamped with the image of St. John the Baptist; and in the concluding lines the Pope is ironically represented as being so devoted to this coin. that he has forgotten Peter and Paul.
 
-THAT blessed mirror was now lost in joy
+THAT BLESSÈD mirror was now lost in joy
 	Of its own thought; and savouring mine, I stood
 	Tempering the bitter with the sweet alloy;
 And she whom I was following unto God
@@ -12383,7 +12336,7 @@ That I know not the Fisherman, nor Paul.”
 Canto XIX
 The symbolic Eagle speaks with one voice, though representing the many spirits composing it. It addresses Dante, and explains that no mind of mortal is capable of understanding the Divine Justice, and what on earth may seem justice is not so in Heaven. Only true believers in Christ can attain to Paradise; but many who profess Christ are less near to him than some who never heard his name. Follows a denunciation of certain unjust rulers.
 
-BEFORE me in beauty appeared with wings displayed
+BEFORE ME in beauty appeared with wings displayed
 	The image which those souls, all woven in one,
 	Exulting in their sweet fruition, made.
 Each one was as a little ruby stone
@@ -12534,7 +12487,7 @@ This beast, who step by step with the others goes.”
 Canto XX
 The Eagle names six spirits pre-eminent for their justice. They form the Eagle’s eye and eyebrow. David is in the pupil of the eye, and in the eyebrow are Trajan, Hezekiah, Constantine, William II of Sicily, and Ripheus the Trojan. Dante is puzzled, because Trajan and Ripheus whom he conceived of as pagans, are found in Paradise: and the Eagle explains to him how it is that they are there; ending with an admonition against hasty judgment.
 
-WHEN he who illumines all the world descends[mxlvi]
+WHEN HE who illumines all the world descends[mxlvi]
 	So far, departing from our hemisphere,
 	That day on all sides vanishes and ends,
 The heaven, which he alone before lit clear,
@@ -12575,7 +12528,7 @@ He from whose light the pupil’s fire is fed
 	The Ark, from city unto city led.[mxlix]
 He knoweth now his song’s desert, so far	[40]
 	As in his own conception ’twas begun,
-	By its being matched with recompense so rare..
+	By its being matched with recompense so rare.
 Of five, who make the eyebrow’s arch, the one
 	Who of all closest to the beak is set[ml]
 	Brought comfort to the widow for her son.
@@ -12682,7 +12635,6 @@ So, while it spoke, comes back to memory
 	That the two blessed spirits to the words
 	Made their flames tremble in one harmony
 Even as the winking of the eyes concords.
-
 Canto XXI
 Dante and Beatrice ascend into the seventh heaven. This is the heaven of Saturn, where are those who passed their lives in holy contemplation. Dante discerns a ladder, the top of which is out of sight, on which are spirits descending and ascending. One of these is the soul of Peter Damian, who tells Dante about his life of retirement and austerity before, in his last years, against his wish, he was made a Cardinal. He contrasts the luxurious habits of the clergy with the simple lives of the Apostles.
 
@@ -12811,7 +12763,7 @@ In that place was I Peter Damian,
 	Peter the Sinner had I also been.
 Little was left me of my mortal course
 	When I was called and dragged unto the hat[mlxviii]
-	Which ever is passed down from. bad to worse.
+	Which ever is passed down from bad to worse.
 Barefoot and lean came Cephas, came the great[mlxix]
 	Vessel of the Holy Spirit, glad to sup
 	At whatsoever inn they halted at.
@@ -12986,7 +12938,6 @@ The small round floor which makes us passionate[mlxxviii]
 	I, carried with the eternal Twins, discerned,
 	From hill to harbour, plain to contemplate:
 Then to the beauteous eyes my eyes returned.
-
 Canto XXIII
 The Triumph of Christ is made visible. Christ ascends out of sight, followed by the Virgin, round whom circles the archangel Gabriel.
 
@@ -13277,7 +13228,7 @@ With the unfathomable state divine
 	I speak of, often has stamped on me its mark
 	The evangelic doctrine’s great design.
 And this is the beginning; this, the spark
-	Which, after, into livelier fame shall swell
+	Which, after, into livelier flame shall swell
 	To shine in me as stars shine in the dark.”
 Then as a lord, at news which pleases well,
 	Taketh his servant to his bosom prest
@@ -13292,7 +13243,7 @@ St. James examines Dante on the subject of Hope. Beatrice answers for him, to sp
 IF EVER it happen that the sacred song[mciv]
 	Whereto both heaven and earth have set a hand,
 	Whereby I am lean, these many years and long,
-Overcome the cruelty which keeps me banned
+O’ercome the cruelty which keeps me banned
 	From the fair sheepfold where I slept, a lamb,[mcv]
 	Foe to the wolves that raven through the land,
 With different voice now, nor with fleece the same,
@@ -13428,7 +13379,6 @@ Ah, how my mind was shaken and in fear
 	When now I turned to look on Beatrice!
 	For now I could not see her, though so near
 I was to her, and in the world of bliss.
-
 Canto XXVI
 Dante is examined by St. John on the subject of Love. When he has given his answers, there is a sound of sweet singing; and Dante's sight is restored to him. A fourth spirit has now appeared and joined the three Apostles. Beatrice tells Dante that this is the spirit of Adam. Though Dante has not expressed his desire for enlightenment, Adam perceives it and answers his unspoken questions. He tells how long it is since he was placed in the Garden of Eden, how long he remained there, what was the true cause of the Fall, and what language he spoke.
 
@@ -13577,7 +13527,7 @@ Changes his quadrant, follows the sixth hour.”
 Canto XXVII
 The lustre clothing the spirit of St. Peter begins to dilate and to redden. This is from indignation at the avarice, ambition, and venality of modern Popes. (“Cahorsins and Gascons,” line 58, refers to Clement V, a Gascon, and John XXII, of Cahors.) The host of spirits vanishes; and Beatrice bids Dante look down for a moment to see how far they had come on their upward journey. Both are then wafted into the ninth heaven, that of the Primum Mobile: Beatrice explains the nature of this sphere, and laments the perversity of mankind, with their desires set upon ignoble things, not from depravity of nature but for lack of right government.
 
-TO THE Father and to the Son and Holy Ghost
+TO THE FATHER and to the Son and Holy Ghost
 	Glory!” burst forth from all the heavenly spheres.
 	So sweet, my spirit in ecstasy was lost.
 What I saw seemed a smile of the universe;
@@ -13626,14 +13576,14 @@ It was not our will that on the right hand
 	Of our successors one part of Christ’s flock[mcxlviii]
 	Should be, and one part on the other stand;
 Nor that the keys which in my charge I took
-	Should on a standard be the ensign fown	[50]
+	Should on a standard be the ensign flown	[50]
 	In battle urged against baptisèd folk;
 Nor that my image should for seal be shown
 	On lying privileges, bought and sold:
 	I flash and redden, seeing these things done.
 From here above preying on every fold
 	In shepherds’ clothing wolves are seen to slink:
-	O succour of God, thy hand why dost thou hoJd?
+	O succour of God, thy hand why dost thou hold?
 Cahorsins and Gascons make ready to drink[mcxlix]
 	Our blood: O in beginning once so bright,
 	To what ignoble ending dost thou sink!	[60]
@@ -13725,11 +13675,10 @@ That destiny, which we so long expect,[mclviii]
 	Shall turn the poops to where the prows have stood;
 	And then the fleet shall steer a course direct,
 And a sound fruit shall follow upon the bud.”
-
 Canto XXVIII
 Dante is privileged to see the Divine Essence, revealed as a single point of intensely shining light. In this ninth heaven, moving round that Point are nine orders of angels, in nine concentric circles of light. These orders are the Intelligences, who are the Movers of the various spheres: they are divided into three hierarchies: Seraphs, Cherubs, Thrones; Dominations, Virtues, Powers; Principalities, Archangels, and Angels; as set forth by St. Dionysius. The swiftness and brightness of the circles are the measure of their excellence; and the joy of the angels is proportioned to their sight. The doubling of the chess-board squares (line 98) alludes to the inventor of chess, who asked from a king as a reward a grain of wheat doubled as many times as there were squares on the board. The king was amazed at the millions to which the numbers added up.
 
-WHEN she who hath imparadised my mind
+WHEN SHE who hath imparadised my mind
 	Had stript the truth bare, and its contraries
 	In the present life of wretched mortal-kind,
 As one who, looking in the mirror, sees
@@ -13868,11 +13817,10 @@ And if on earth a mortal could declare
 	A truth so secret, be not stupefied;
 	For he imparted it who saw it here
 With much of truth about these gyres beside.”
-
 Canto XXIX
 Beatrice enlightens Dante on various points that troubled him. He learns from her that the creation was not a temporal process: God revealed Himself in eternity. Pure “act” (the angels), pure potentiality (matter), and the two united in the material heavens, all came into being simultaneously. Jerome erred in supposing that the angels were created long before the rest of the universe. In contrast with the pure vision of the angels, preachers on earth cloud the minds of their hearers with pedantic questions and trivial inventions.
 
-WHEN both Latona’s children, covered by[mclxxii]
+WHEN BOTH Latona’s children, covered by[mclxxii]
 	The Ram and by the Scales, together make
 	One complete girdle of the horizon sky,
 Not longer than the one and the other take,
@@ -14168,7 +14116,6 @@ But in the holy office but short space
 	Shall God endure him: soon shall he be thrown[mcxcv]
 	Where Simon Magus hath his own just place,
 And thrust him of Anagna deeper down.”
-
 Canto XXXI
 Further description of the Rose of Paradise, into and out of which the angels flit like bees about a flower. Dante, having taken in its general form, turns to Beatrice to inquire more particularly about it. But Beatrice has disappeared, and in her place is an old man, who proves to be St. Bernard, and who points out Beatrice, now in her appointed seat above. Next, he bids Dante contemplate the beauty of the Virgin.
 
@@ -14589,7 +14536,7 @@ But the one semblance, seen with more intense
 Within the clear profound Light’s aureole[mccxxxv]
 	Three circles from its substance now appeared,
 	Of three colours, and each an equal whole.
-One its reflection on the. next conferred
+One its reflection on the next conferred
 	As rainbow upon rainbow, and the two
 	Breathed equally the fire that was the third.[mccxxxvi]	[120]
 To my conception O how frail and few
@@ -14618,7 +14565,6 @@ To the high imagination force now failed;
 	Already on my desire and will prevailed
 The Love that moves the sun and the other stars.
 
-
 ----------
 [i] 17. “That planet”: the sun, which is just rising. The sun, here and elsewhere, typifies enlightenment, perhaps righteous choice, the intelligent use of the free will.
 [ii] 30. This perplexing and much discussed line seems to describe the act of cautiously feeling one’s way up a slope.
@@ -14645,7 +14591,7 @@ The Love that moves the sun and the other stars.
 [xxiii] 94. “A Lady in heaven”: the Virgin, who is not expressly named anywhere in the Inferno, Hell being a place where mercy does not enter.
 [xxiv] 97. Lucy has been regarded by almost all interpreters as the emblem of Grace—probably, as her name suggests, Illuminating Grace.
 [xxv] 102. Rachel symbolised the contemplative life.
-[xxvi] 108. “The wild flood’ is perhaps the Acheron, the river of death which flows beneath Dante’ s feet: and which does not empty into the sea, but runs down through Hell.
+[xxvi] 108. “The wild flood” is perhaps the Acheron, the river of death which flows beneath Dante’s feet: and which does not empty into the sea, but runs down through Hell.
 [xxvii] 5-6. Hell was made by the triune God—Father, Son, and Holy Ghost, or Power, Wisdom, and Love.
 [xxviii] 7-8. “In the beginning God created the heaven and the earth. And the earth was without form, and void” (Gen. 1:1-2). At this point, apparently, Hell was created for the rebellious angels, who sinned almost as soon as they were made. On the Judgment Day, when all the wicked shall have been consigned to Hell, it will be sealed up, and will remain unchanged forever.
 [xxix] 18. “The good of the intellect” is the vision of God.
@@ -14692,7 +14638,7 @@ The Love that moves the sun and the other stars.
 [lxx] 128. “We read of Launcelot”: the French prose romance of Launcelot of the Lake, which tells of the love of the hero for Guinevere, wife of King Arthur.
 [lxxi] 137. “The book . . . was a Galahalt to us”: Galahalt was the intermediary who brought Launcelot and Guinevere together; Paolo and Francesca had no such go-between—the book was their Galahalt, their guide to love.
 [lxxii] 16-19. Gluttony, the next of the sins of Incontinence, is essentially foul and selfish. It is a sin that robs men of their humanity, making them unrecognisable to their friends. Its perfect embodiment is Cerberus, the tormenting genius of the place.
-[lxxiii] 49. “Thy city’: Florence.
+[lxxiii] 49. “Thy city”: Florence.
 [lxxiv] 52. “Ciacco”: a Florentine renowned both for his gluttony and for his cleverness, who figures also in one of Boccaccio’s tales, Decameron, IX, 8.
 [lxxv] 64-66. After long strife between the adherents of the Donati, representing the old aristocracy, and the followers of the Cerchi, who had come to Florence from the country and enriched themselves by commerce, blood was shed in an encounter on May 1, 1300. In June, 1301, the leaders of the Black or Donati party conspired against their opponents, and in consequence were exiled.
 [lxxvi] 67. “Third sun”: the third solar year, beginning January 1; the Florentine year began on March 25.
@@ -14707,7 +14653,7 @@ The Love that moves the sun and the other stars.
 [lxxxv] 22. “Charybdis”: in the Strait of Messina.
 [lxxxvi] 39. “Were they each a clerk?” Clerics form a large part of the miserly host; Dante was by no means alone in regarding avarice as the besetting fault of the clergy.
 [lxxxvii] 74. “And gave them guides”: the angels, who govern the revolutions of the spheres.
-[lxxxviii] 77. “A general minister’: Fortune, a power similar to the celestial intelligences that move the heavens. It is her mission to shift prosperity to and fro, without apparent plan, seeing that it remain not too long with one person, family, or nation.
+[lxxxviii] 77. “A general minister”: Fortune, a power similar to the celestial intelligences that move the heavens. It is her mission to shift prosperity to and fro, without apparent plan, seeing that it remain not too long with one person, family, or nation.
 [lxxxix] 95. “Primal creatures”: the angels.
 [xc] 96. “Her sphere”: the wheel, the traditional symbolic attribute of Fortune.
 [xci] 98. The stars which were rising in the east when they started have now crossed the meridian and begun to descend towards the west: it is past midnight. Virgil usually states the hour in astronomical terms.
@@ -14727,7 +14673,7 @@ The Love that moves the sun and the other stars.
 [cv] 21. On the day of Judgment all souls, having recovered their bodies, will gather in the Valley of Jehoshaphat, whence, after hearing their sentence, they will return to Heaven or Hell.
 [cvi] 24. Although all heresies are punished in this circle, the only one that concerns Dante is that called “Epicurean,” a name bestowed, in his day, upon materialistic free-thinking which denied the immortality of the soul and regarded a comfortable life as the highest good. There is grim irony in the eternal burial of sinners who affirmed that the spirit perishes with the body. Epicurus himself, pagan though he was, is with them.
 [cvii] 32. This famous heretic is Manente degli Uberti, called Farinata, chief of the Florentine Ghibellines, a wise and valiant leader, who died in 1264, a year before Dante’s birth. In 1260 he had taken part in the battle of Montaperti, where the Guelfs of Florence suffered a fearful defeat from the Sienese, the exiled Ghibellines, and King Manfred’s Germans. After this rout the neighbouring towns and barons held a council at Empoli, and all but Farinata were in favour of destroying Florence; he, however, opposed the project so stoutly that it was abandoned. In 1283 the inquisitor, Salmone da Lucca, condemned him (nearly twenty years dead), his wife, his sons, and his grandsons, as heretics; his bones were cast out, his property confiscated and sold. His brave and haughty spirit is not quelled even by his fiery punishment: he appears with head and chest erect.
-[cviii] 48-51. Farinata scattered the Guelfs in 1248 and 1260; but they returned to Florence in 1251, after the death of Frederick I, and in 1266, after the battle of Benevento; they then expelled the Ghibellines, who never “tightly learned” the art of returning.
+[cviii] 48-51. Farinata scattered the Guelfs in 1248 and 1260; but they returned to Florence in 1251, after the death of Frederick I, and in 1266, after the battle of Benevento; they then expelled the Ghibellines, who never “rightly learned” the art of returning.
 [cix] 52. The “Shadow” is Cavalcante de’ Cavalcanti, a noble and wealthy Florentine, the father of that Guido whom Dante calls his “first friend.” This Guido Cavalcanti, a little older than Dante, was a famous poet and student, and an ardent partisan.
 [cx] 61-63. Dante hastens to explain Guido’s absence by the assurance that it is not his own wit, but Virgil's, which directs him, adding that Guido may not have duly esteemed the ancient sage.
 [cxi] 79-81. “The Lady who reigns here” is Hecate, who in the sky appears as the moon. Before fifty months have passed, Dante is to learn how hard is the art of returning from exile.
@@ -14738,7 +14684,7 @@ The Love that moves the sun and the other stars.
 [cxvi] 119. The great Emperor Frederick II (1194-1250), who was long engaged in strife against the Papacy, was generally regarded as an Epicurean.
 [cxvii] 120. “The Cardinal” Ottaviano degli Ubaldini, apostolic legate in Lombardy and Romagna against Frederick, in the Kingdom of Naples against Manfred, was accused of unbelief and of sympathy with the Imperial cause. Several of the early commentators report him as saying: “If there is a soul, I have lost it for the Ghibellines.”
 [cxviii] 131. “Of that Lady”: Beatrice.
-[cxix] 8. This is Anastasius , who for many centuries was generally but unjustly thought to have been induced by Photinus, deacon of Thessalonica, to deny the divinity of Christ; it is likely that he had been confused with the Byzantine emperor, Anastasius I.
+[cxix] 8. This is Anastasius II, who for many centuries was generally but unjustly thought to have been induced by Photinus, deacon of Thessalonica, to deny the divinity of Christ; it is likely that he had been confused with the Byzantine emperor, Anastasius I.
 [cxx] 46-48. “Violence . . . in nature”: the sodomites, or homosexuals, do violence to nature, the minister of God.
 [cxxi] 50. Cahors: a town in southern France, a notorious nest of usurers.  Usurers—that is, moneylenders—do violence to human industry, the offspring of Nature.
 [cxxii] 57. “The second circle”: the second of the “circlets” of line 17, is actually the eighth circle.
@@ -14752,7 +14698,7 @@ The Love that moves the sun and the other stars.
 [cxxx] 103-105. Human industry follows nature as far as it can, so that it is, so to speak, the grandchild of God.
 [cxxxi] 111. The moneylender sets his hope on gain derived neither from nature nor from toil.
 [cxxxii] 113. Virgil, as usual, indicates the hour (in Jerusalem) by a description of the sky, which, of course, is not visible from Hell.  The time is three hours or more after midnight.
-[cxxxiii] 4-5. “The desolation . . . of Trent’: our poet compares this vast slide with one in northeastern Italy.
+[cxxxiii] 4-5. “The desolation . . . of Trent”: our poet compares this vast slide with one in northeastern Italy.
 [cxxxiv] 12. “The infamy of Crete” is the Minotaur; half man and half beast, he was the offspring of a bull and Pasiphaë, wife of King Minos of Crete, who satisfied her abnormal passion (inflicted by Venus as a curse) by enclosing herself in a wooden cow.
 [cxxxv] 16-17. “The Duke of Athens,” so called by Boccaccio, Chaucer, and Shakespeare, is the Athenian hero Theseus, who slew the Minotaur in the Labyrinth, guided by Ariadne, the daughter of Pasiphaë and Minos.
 [cxxxvi] 42-43. According to Empedocles, the four elements, mixed together, produced chaos; hate, separating the seeds, brought forth from chaos all the things of the universe; love, by drawing the seeds together, can restore chaos. Dante probably got his idea of Empedocles from Aristotle.
@@ -14772,10 +14718,10 @@ The Love that moves the sun and the other stars.
 [cl] 135. Pyrrhus, King of Epirus, was a fearful enemy of the Romans.  Sextus, son of Pompey, became a pirate.
 [cli] 137-138. Rinieri da Corneto and Rinieri de’ Pazzi were two highwaymen apparently famous in the thirteenth century.
 [clii] 7-9. Cecina, a town near Volterra, and Corneto, a town close to Civitavecchia, denote the northern and southern limits of the woody, swampy district known as Maremma. In Dante's time it was covered with dense forest.
-[cliii] 10-12. The Harpies are voracious, filthy birds with maidens’ faces.  On the Strophades is!ands, off Messenia, where they dwelt, their foul presence repeatedly interrupted the Trojans’ repast; and finally one of them uttered so threatening a prophecy that the warriors hastily departed.
-[cliv] 19. “The terrible great sand’: the third ring, consisting of a waste of sand, upon which falls a rain of fire.
+[cliii] 10-12. The Harpies are voracious, filthy birds with maidens’ faces.  On the Strophades islands, off Messenia, where they dwelt, their foul presence repeatedly interrupted the Trojans’ repast; and finally one of them uttered so threatening a prophecy that the warriors hastily departed.
+[cliv] 19. “The terrible great sand”: the third ring, consisting of a waste of sand, upon which falls a rain of fire.
 [clv] 48. “But in my verse . . .”: i.e., in the story of Polydorus in Aeneid III, 22-43.
-[clvi] 58.“I am he . . .”: Pier delle Vigne, who entered the court of Frederick I as a notary, and so won the confidence and affection of the sovereign that for over twenty years he was entrusted with the most important affairs of the realm. In 1248, or 1249, he was accused and convicted of treason; his eyes were put out, and according to one account he was condemned by the Emperor to be led in derision, on an ass, from town to town. To escape dishonour, he killed himself. by dashing his head against a wall. Piero, as Dante conceived him, is a magnanimous courtier, and most pathetic in his unshaken devotion to the master who wronged him.
+[clvi] 58.“I am he . . .”: Pier delle Vigne, who entered the court of Frederick I as a notary, and so won the confidence and affection of the sovereign that for over twenty years he was entrusted with the most important affairs of the realm. In 1248, or 1249, he was accused and convicted of treason; his eyes were put out, and according to one account he was condemned by the Emperor to be led in derision, on an ass, from town to town. To escape dishonour, he killed himself by dashing his head against a wall. Piero, as Dante conceived him, is a magnanimous courtier, and most pathetic in his unshaken devotion to the master who wronged him.
 [clvii] 64. “The whore” is Envy, and the house of Caesar is the Imperial court.
 [clviii] 102. By breaking the leaves, they provide an outlet.
 [clix] 121. The spendthrift Lano of Siena perished in the battle of Pieve del Toppo. The speaker is Giacomo da Sant’Andrea.
@@ -14787,7 +14733,7 @@ The Love that moves the sun and the other stars.
 [clxv] 15. Cato led the remnants of Pompey’s army across the Libyan desert in 47 B.C.
 [clxvi] 31-36. Dante apparently got this story from Albertus Magnus.
 [clxvii] 46. “That great spirit” is Capaneus, one of the seven kings who attacked Thebes; scaling the walls, whence his gigantic shadow frightened the city, he mocked at the gods and challenged Jupiter, who thereupon slew him with a thunderbolt.
-[clxviii] 52-60. Even though Jupiter should labour as he did in the battle against the giants, in the valley of Phlegra in Thessaly, he could not subdue the spirit of Capaneus.—“His smith”: Vulcan.—“All the rest”: the Cyclops, assistants of Vulcan.—‘Mongibello”: a Sicilian name for Aetna.
+[clxviii] 52-60. Even though Jupiter should labour as he did in the battle against the giants, in the valley of Phlegra in Thessaly, he could not subdue the spirit of Capaneus.—“His smith”: Vulcan.—“All the rest”: the Cyclops, assistants of Vulcan.—“Mongibello”: a Sicilian name for Aetna.
 [clxix] 79. “Bulicame”: a hot spring near Viterbo, frequented as a bath.  The stream issuing from it was divided into separate baths for prostitutes, who were compelled to stay apart from the others.
 [clxx] 95. In the golden age, under Saturn.
 [clxxi] 100-102. Rhea, wife of Saturn, to save the infant Jupiter from his father, who devoured his sons, entrusted him to the Curetes, or Corybantes, in Crete; and when he cried, she had them drown the sound with noise.
@@ -14823,7 +14769,7 @@ The Love that moves the sun and the other stars.
 [cci] 36. “Were people . . .”: the usurers, who did violence to human industry.
 [ccii] 60. The azure lion here, the goose on line 63, and the sow on line 64, are the arms of three well-known families of usurers.
 [cciii] 68. Of “Vitaliano,” the only one of the usurers mentioned by name, we have no certain information.
-[cciv] 73. “Three goats” were the arms of the Becchi family of Florence.  It is thought that the “sovereign cavalier’ of usurers is Gianni Buiamonte, the head of a money-lending company.
+[cciv] 73. “Three goats” were the arms of the Becchi family of Florence.  It is thought that the “sovereign cavalier” of usurers is Gianni Buiamonte, the head of a money-lending company.
 [ccv] 107-108. Phaeton, son of Phoebus, was carried away by the horses of the chariot of the sun, which he tried to drive. The sky, scorched by the runaway chariot, still shows traces of it in the Milky Way.
 [ccvi] 109-111. Daedalus, to escape from Crete, fashioned wings for his son Icarus and himself and fastened them on with wax. In spite of his father’s warning, the boy flew so high that the sun melted the wax, and, losing his wings, he fell into the sea.
 [ccvii] 26. On the nearer side of the bottom of the ditch, the sinners, in their circling course, were coming towards us; on the further side, they were going with us, but faster than we walked.
@@ -14878,15 +14824,15 @@ The Love that moves the sun and the other stars.
 [cclvi] 90. This line was omitted in my source, so I have taken the liberty of my own insertion. MF
 [cclvii] 3. “Minor Friars”: Franciscans.  In Aesop’s fable, a frog, having offered to tow a rat across a stream, ties itself to the animal, jumps in with it, and then treacherously tries to dive to the bottom, expecting to drown its companion. While the rat is struggling to keep afloat, a kite, seeing the disturbance, swoops down and carries off both creatures. The beginning and the end of the fable, Dante says, are exactly like the recent episode.
 [cclviii] 66. The leaden cloaks which Frederick I put upon criminals were, in comparison with these, as light as straw.
-[cclix] 103-108. The brethren of the lay order of Beata Maria were not required to lead an ascetic life, and were nicknamed “Jovial Friars.” Catalano de’ Malavolti and Loderingo degli Andalo were both men of great authority, and successful mayors of several cities.  “Together both . . . thy city chose . . .”: it was customary in Florence, as in many other cities, to choose as mayor for a term some distinguished outsider. In 1266, however instead of “one alone,” two mayors, one from each party, were elected as a compromise.  “Gardingo”: an old Longobard fortress in Florence. Near it were the houses of the Uberti, which were destroved in 1266, when the Ghibellines left the city.
+[cclix] 103-108. The brethren of the lay order of Beata Maria were not required to lead an ascetic life, and were nicknamed “Jovial Friars.” Catalano de’ Malavolti and Loderingo degli Andalo were both men of great authority, and successful mayors of several cities.  “Together both . . . thy city chose . . .”: it was customary in Florence, as in many other cities, to choose as mayor for a term some distinguished outsider. In 1266, however instead of “one alone,” two mayors, one from each party, were elected as a compromise.  “Gardingo”: an old Longobard fortress in Florence. Near it were the houses of the Uberti, which were destroyed in 1266, when the Ghibellines left the city.
 [cclx] 115-16. The evil counselor is Caiaphas, who favoured the sacrifice of Christ.
-[cclxi] 121. “His father-in-law’: Annas.
+[cclxi] 121. “His father-in-law”: Annas.
 [cclxii] 2-3. The sun is in Aquarius approximately from January 21 to February 21. From December 21 to June 21 the nights grow shorter in the northern hemisphere, longer in the southern.
 [cclxiii] 5. “Her white sister”: the snow.
 [cclxiv] 85. The Libyan sands were familiar to Dante through Lucan and Ovid.
 [cclxv] 93. “Heliotrope”: a precious stone that makes its bearer invisible.
 [cclxvi] 112-114. “And as one falls. . .”: an epileptic. Epileptics were thought to be possessed by devils.—“Obstruction” of the passages between heart and brain.
-[cclxvii] 125. “Mule that I was’: Vanni Fucci was a bastard. He was a notorious ruffian, robber and a party leader.
+[cclxvii] 125. “Mule that I was”: Vanni Fucci was a bastard. He was a notorious ruffian, robber and a party leader.
 [cclxviii] 138-139. In 1293 some silver statues were stolen from the cathedral of Pistoia. The crime was attributed to a certain Ranucci, who came near being hanged for it.
 [cclxix] 145. The “mist” that Mars draws forth is Moroello Malaspina, lord of Lunigiana in the valley of the Magra.
 [cclxx] 148. The name “Piceno’s plain” was applied to the territory of Pistoia.
@@ -14914,7 +14860,7 @@ The Love that moves the sun and the other stars.
 [ccxcii] 80. Virgil assumes that he has immortalised Ulysses and Diomed in his Aeneid.
 [ccxciii] 91. Circe, daughter of the sun, was a sorceress who turned men into beasts. Ulysses visited her and compelled her to restore her victims to human form.
 [ccxciv] 92. Aeneas named the place in memory of his nurse Caieta, who had died there.
-[ccxcv] 108. “The boundaries’: the pillars of Hercules, on either side of the Strait of Gibraltar.
+[ccxcv] 108. “The boundaries”: the pillars of Hercules, on either side of the Strait of Gibraltar.
 [ccxcvi] 124. They turn their stern to the morning and sail forth, constantly gaining on the left; that is, their course is not due west, but southwest.
 [ccxcvii] 128. “Ours”: our northern pole; when they pass the equator, the North Star sinks below the sea level.
 [ccxcviii] 130. “Five times . . .”: they have sailed five months.
@@ -14924,7 +14870,7 @@ The Love that moves the sun and the other stars.
 [cccii] 30. The county of Montefeltro lies between Urbino and the Tuscan Apennines.
 [ccciii] 41-42. Cervia, a town near Ravenna, was subject to the Polenta family, whose arms contained an eagle.
 [ccciv] 43. “The city”: Forli, whose inhabitants, in 1282, had defeated their French besiegers with great slaughter. In 1300 it was ruled by the Ordelaffi, who had in their arms a lion with green paws.
-[cccv] 46-47. The “old mastiff’ is Malatesta da Verrucchio, lord of Rimini; the “young mastiff” is his son Malatestino. In 1296 they defeated the Ghibelline forces of Rimini, and murdered their leader Montagna.
+[cccv] 46-47. The “old mastiff” is Malatesta da Verrucchio, lord of Rimini; the “young mastiff” is his son Malatestino. In 1296 they defeated the Ghibelline forces of Rimini, and murdered their leader Montagna.
 [cccvi] 49. Faenza, on the Lamone, and Imola, near the Santerno, were ruled by Maghinardo da Susinana, whose banner bore a blue lion on a white field.
 [cccvii] 52. “That city” is Cesena.
 [cccviii] 67. “Cordelier”: a Franciscan friar.
@@ -14934,7 +14880,7 @@ The Love that moves the sun and the other stars.
 [cccxii] 94. Pope Sylvester I, who had taken refuge on Mt. Soracte, near Rome, was sought out, according to the legend, to cure the Emperor Constantine of leprosy; this he did by baptism.
 [cccxiii] 105. “He who came before me . . .”: Celestine V, who renounced the papacy.
 [cccxiv] 112-120. St. Francis of Assisi came to claim the departing spirit; but though absolved by a Pope, Guido had not genuinely repented of his last misdeed, and therefore the absolution was invalid.
-[cccxv] 10-18. “By the Trojans”: the Romans, whose ancestors came from Troy; the allusion is to their conquest of the Samnites.—The “long moil of war” is the Second Punic War: after the battle of Cannae Hannibal's troops took from the dead Romans more than three thousand bushels of rings.—“Robert Guiscard”: the Norman conqueror who overran southern Italy in the eleventh century.—“At Ceperano . . .”: in the battle of Benevento, in 1266, where ManSed, son of Frederick 1, was defeated by Charles of Anjou, and Eilled; he had been deserted by the Apulian troops.—At “Tagliacozzo,” in 1268, the Imperial forces were again defeated b Charles of Anjou. The victory was due to the wit of a Frenc general, Erard (or “Alard”) de Valéry.
+[cccxv] 10-18. “By the Trojans”: the Romans, whose ancestors came from Troy; the allusion is to their conquest of the Samnites.—The “long moil of war” is the Second Punic War: after the battle of Cannae Hannibal's troops took from the dead Romans more than three thousand bushels of rings.—“Robert Guiscard”: the Norman conqueror who overran southern Italy in the eleventh century.—“At Ceperano . . .”: in the battle of Benevento, in 1266, where Manfred, son of Frederick II, was defeated by Charles of Anjou, and killed; he had been deserted by the Apulian troops.—At “Tagliacozzo,” in 1268, the Imperial forces were again defeated b Charles of Anjou. The victory was due to the wit of a Frenc general, Erard (or “Alard”) de Valéry.
 [cccxvi] 23. “One I saw . . .”: Mahomet.
 [cccxvii] 32. “Ali”: the husband of Mahomet’s favourite daughter, and one of his most zealous followers.
 [cccxviii] 56. “Fra Dolcino”: see the Argument.
@@ -15004,7 +14950,7 @@ The Love that moves the sun and the other stars.
 [ccclxxxii] 118-120. “Friar Alberic”: see the Argument. “Dates for figs,” that is: I am being repaid with interest, a date being worth more than a fig.
 [ccclxxxiii] 126. “Atropos”: the Fate who cuts the thread of life.
 [ccclxxxiv] 145. Branca’s soul, leaving a devil in its stead, reached this ninth circle as soon as the murdered man’s soul (Michel Zanche) reached the eighth.
-[ccclxxxv] 154. Alberigo de’ Mantredi.
+[ccclxxxv] 154. Alberigo de’ Manfredi.
 [ccclxxxvi] 155. Branca d’Oria.
 [ccclxxxvii] 30-31. A rough computation makes Dis more than a third of a mile in stature.
 [ccclxxxviii] 34-36. If Lucifer’s beauty, as God created him, was equal to his present ugliness, his revolt against his Creator was an act of such monstrous ingratitude as to be a fitting source of all subsequent sin and sorrow.
@@ -15062,7 +15008,7 @@ The Love that moves the sun and the other stars.
 [cdxl] 91. “Ye that . . .”: the clergy.
 [cdxli] 96. Ever since the clergy usurped temporal authority.
 [cdxlii] 97. Albert of Hapsburg was elected King of the Romans in 1298 but never went to Italy to be crowned.
-[cdxliii] 100-103. In 1307 Albert's oldest son died after a short sickness; the next year Albert himself was murdered.—‘Thy successor”: Henry VII, who descended into Italy.—‘Thy father”: Rudolf, who was as remiss as his son.
+[cdxliii] 100-103. In 1307 Albert's oldest son died after a short sickness; the next year Albert himself was murdered.—“Thy successor”: Henry VII, who descended into Italy.—“Thy father”: Rudolf, who was as remiss as his son.
 [cdxliv] 106-107. Dante cites a few of the great houses that were ravaged by strife: the Montecchi of Verona, Ghibellines; the Cappelletti of Cremona, of the Church party; the Monaldi and Filippeschi, rival families (Guelf and Ghibellines) of Perugia and Orvieto.
 [cdxlv] 111. The Counts of Santafiora, a great Ghibelline family, had lost a great part of their territory to Siena.
 [cdxlvi] 118. “Highest Jove”: Christ.
@@ -15101,7 +15047,7 @@ The Love that moves the sun and the other stars.
 [cdlxxix] 32. “Polycletus”: the Greek sculptor.
 [cdlxxx] 34. “The Angel” is Gabriel. This example of humility represents the Virgin at the Annunciation.
 [cdlxxxi] 44. “Behold the handmaid of the Lord,” Mary's reply to Gabriel.
-[cdlxxxii] 52-57. “Another story”: King David dancing before the ark of the covenant. Uzzah, one of the drivers of the cart, seeing the ark shaken, “put forth his hand . . . and took hold of it’; whereupon “God smote him” for his “unchartered office’: 2 Samuel 6:6.
+[cdlxxxii] 52-57. “Another story”: King David dancing before the ark of the covenant. Uzzah, one of the drivers of the cart, seeing the ark shaken, “put forth his hand . . . and took hold of it”; whereupon “God smote him” for his “unchartered office”: 2 Samuel 6:6.
 [cdlxxxiii] 67. His wife, Michal, “looked through a window, and saw King David leaping and dancing before the Lord; and she despised him in her heart”: 2 Samuel 6:16.
 [cdlxxxiv] 72-74. The third example of humility is furnished by Trajan, who acknowledged the justice of a poor widow’s claim; whereupon St. Gregory interceded with God for his salvation.
 [cdlxxxv] 94. “He, to whose sight . . .”: God.
@@ -15179,7 +15125,7 @@ The Love that moves the sun and the other stars.
 [dlvii] 126. “With order spurned”: too sluggishly toward heavenly good, too eagerly toward worldly good.
 [dlviii] 24-29. The senses convey to the mind the impression of some attractive object in the material world; the understanding then develops this impression in such a way that it is brought to the notice of the will.
 [dlix] 35. “Those people . . .”: the Epicureans, who overlook the fact that the object of desire may be evil.
-[dlx] 49-62. In scholastic language, a “substantial form” means the particular basic principle, which gives an object its separate existence; and the substantial form of mankind is the intellective soul, whose “faculty peculiar” is an instinct which comprises innate knowledge and the inborn disposition to love. Hence we are not aware of the source of our natural inclination toward all that seems good. Judgment (“the power that judges”) tells us which desires are tight and which are wrong.
+[dlx] 49-62. In scholastic language, a “substantial form” means the particular basic principle, which gives an object its separate existence; and the substantial form of mankind is the intellective soul, whose “faculty peculiar” is an instinct which comprises innate knowledge and the inborn disposition to love. Hence we are not aware of the source of our natural inclination toward all that seems good. Judgment (“the power that judges”) tells us which desires are right and which are wrong.
 [dlxi] 83. Virgil was born at Pietola, near Mantua.
 [dlxii] 91. “Ismenus” and “Asopus” are rivers in Boeotia.
 [dlxiii] 120. The Emperor Barbarossa destroyed Milan in 1162.
@@ -15212,11 +15158,11 @@ The Love that moves the sun and the other stars.
 [dxc] 112-113. “Her husband”: Ananias (see Acts 5:1-10). “Heliodorus”: see Macc. 3:7, 25-27.
 [dxci] 117. Crassus, triumvir with Caesar and Pompey, was famous for his wealth and his greed.
 [dxcii] 130. Delos, before Latona took refuge there to bring forth Apollo and Diana (sun and moon, “the two eyes of heaven”), was a wandering island.
-[dxciii] 2. “The water’: the water of truth. “The Samaritan’: see Luke 24:23-15.
+[dxciii] 2. “The water”: the water of truth. “The Samaritan”: see Luke 24:13-15.
 [dxciv] 25. Lachesis, the second of the three Fates, spins the thread of life, which Clotho prepares and Atropos cuts off.
 [dxcv] 43. Purgatory is exempt from physical change, and only spiritual causes operate there.
 [dxcvi] 50. “Thaumas’ daughter”: Iris, the rainbow.
-[dxcvii] 52-54. “Three steps’: before the gate of Purgatory. “Peter’s vicar”: the angel at the gate.
+[dxcvii] 52-54. “Three steps”: before the gate of Purgatory. “Peter’s vicar”: the angel at the gate.
 [dxcviii] 61-66. A soul in Purgatory is held there only by its own conditioned will. As soon as this conditioned will, or desire, coincides with the absolute will, i.e., the eternal inclination to seek blessedness, the penitent knows that his expiation is over.
 [dxcix] 82-84. The capture of Jerusalem by the Emperor Titus was regarded as a vengeance for the crucifixion of Christ.
 [dc] 91-93. Statius was a Latin poet of the first century of our era. Of his two great epics, the Thebaid and the Achilleid, the second is unfinished.
@@ -15231,7 +15177,7 @@ The Love that moves the sun and the other stars.
 [dcix] 65. Parnassus is the mountain sacred to the Muses.
 [dcx] 70. “When thou didst say”: in Virgil’s Bucolics, IV, 4.
 [dcxi] 88. This episode marks the middle of the Thebaid.
-[dcxii] 97-101. Various Latin dramatists.—‘Persius”: the Latin satirist.— “The Greek” is Homer.
+[dcxii] 97-101. Various Latin dramatists.—“Persius”: the Latin satirist.— “The Greek” is Homer.
 [dcxiii] 105. “Our nursing mothers”: the Muses.
 [dcxiv] 106-107. The Greek lyric poet, Simonides, is mentioned with the Greek tragic poets, Euripides, Antiphon, and Agathon.
 [dcxv] 109. By “thy people” Virgil means the characters in Statius’ poems.
@@ -15250,7 +15196,7 @@ The Love that moves the sun and the other stars.
 [dcxxviii] 94. “Barbagia”: a wild region in Sardinia.
 [dcxxix] 116. “And I was with thee”: Forese and Dante had led together a sinful life.
 [dcxxx] 120. “The sister of him”: the moon.
-[dcxxxi] 131. “This other shade’: Statius.
+[dcxxxi] 131. “This other shade”: Statius.
 [dcxxxii] 8. Statius “mounts more slowly” in order to be longer with Virgil.
 [dcxxxiii] 10. “Piccarda”: see the Argument.
 [dcxxxiv] 19-20. “Buonagiunta”: a poet of Lucca. “The face . . .”: Pope Martin IV.
@@ -15332,7 +15278,7 @@ The Love that moves the sun and the other stars.
 [dccx] 109-112. The great spheres” are the revolving heavens, which determine the disposition of every human being. God also bestows upon every individual a special degree of grace.
 [dccxi] 116. “New life”: young life.
 [dccxii] 125. “The second period”: begins at 25. Her “life changed” the temporal home for the eternal.
-[dccxiii] 12. “The water’: of Lethe.
+[dccxiii] 12. “The water”: of Lethe.
 [dccxiv] 41-42. The sword of justice is blunted, i.e., tempered with mercy.
 [dccxv] 58. Is the “girl” to be taken literally, or does she symbolise some intellectual pursuit inconsistent with the spiritual ideal? The question remains open.
 [dccxvi] 68. “Beard”: chin.
@@ -15364,9 +15310,9 @@ The Love that moves the sun and the other stars.
 [dccxlii] 152. “A giant”: see the Argument.
 [dccxliii] 1. Ps. 79:1: “O God, the heathen are come into Thine inheritance.”
 [dccxliv] 10-12. John 16:16: “A little while, and ye shall not see me: and again, a little while, and ye shall see me.”
-[dccxlv] 15. “The lady’: Matilda. “The sage”: Statius.
+[dccxlv] 15. “The lady”: Matilda. “The sage”: Statius.
 [dccxlvi] 34. The “vessel” is the chariot.
-[dccxlvii] 35. “The guilty’: Clement and Philip shall both be stricken down.
+[dccxlvii] 35. “The guilty”: Clement and Philip shall both be stricken down.
 [dccxlviii] 38. “The eagle”: the Empire; Dante considered Frederick I the last Roman Emperor.
 [dccxlix] 43. The number DXV gives DUX, the Latin word for “leader.” An emperor, ordained by God, is soon to correct the Papacy and overthrow the power of France.
 [dccl] 49. Dante erroneously believed that the “Naiades,” or water-nymphs, were the successful guessers of the Sphinx’s riddle.
@@ -15391,10 +15337,10 @@ The Love that moves the sun and the other stars.
 [dcclxix] 110. “Their source”: God.
 [dcclxx] 122-125. “The heaven”: the Empyrean, within which the swift Primum Mobile revolves. “That cord”: the bowstring of instinct.
 [dcclxxi] 131. “For it has power”: the free will.
-[dcclxxii] 9. “Either Bear’: the constellations of the Great and Little Bear, by which sailors are guided.
+[dcclxxii] 9. “Either Bear”: the constellations of the Great and Little Bear, by which sailors are guided.
 [dcclxxiii] 11. “The angels’ bread”: sacred knowledge.
 [dcclxxiv] 16-18. The Argonauts were amazed to see Jason compel two monstrous bulls to draw a plough.
-[dcclxxv] 30. “The first star’: the moon.
+[dcclxxv] 30. “The first star”: the moon.
 [dcclxxvi] 41. In the “Essence” of Christ the human and the divine nature are miraculously united (see the Argument).
 [dcclxxvii] 56. “Following after sense”: since even under the guidance of the senses.
 [dcclxxviii] 64. “The eighth sphere” is that of the fixed stars.
@@ -15459,11 +15405,11 @@ The Love that moves the sun and the other stars.
 [dcccxxxvii] 135. “Created virtue”: the secondary power of the stars.
 [dcccxxxviii] 2-3. “The fair Cyprian”: Venus.—“Epicycle”: the circuit of a revolving sphere carrying the planet.
 [dcccxxxix] 15. Beatrice, who symbolises Revelation, grows in loveliness as she and Dante rise from sphere to sphere.
-[dcccxl] 31. “One”: Charles Martel {see the Argument).
+[dcccxl] 31. “One”: Charles Martel (see the Argument).
 [dcccxli] 58. “Of that left bank . . .”: Provence.
 [dcccxlii] 61. “That horn . . . of Ausonia”: (Italy) is the Kingdom of Naples.
 [dcccxliii] 65. “Of all the land . . .”: Hungary.
-[dcccxliv] 67-69. “Trinacria” is Sicily.—‘Pachynus and Pelorus”: two capes.— “Eurus”: the east wind.
+[dcccxliv] 67-69. “Trinacria” is Sicily.—“Pachynus and Pelorus”: two capes.— “Eurus”: the east wind.
 [dcccxlv] 70. The darkness from Aetna is not due to the struggles of the giant Typhoeus, but to the effect of the sun’s heat.
 [dcccxlvi] 71. Sicily would now be awaiting a line of kings descended from the grandfather and the father-in-law of Charles Martel, if the revolution of 1282, called the Sicilian Vespers, had not driven Charles's people from the island.
 [dcccxlvii] 76. “My brother”: Robert, who is represented as having adopted the traditional miserliness of Catalonia.
@@ -15471,15 +15417,15 @@ The Love that moves the sun and the other stars.
 [dcccxlix] 111. A defect in the work of the stars would imply a fault in their Maker.
 [dcccl] 124-126. One is born a legislator, another a general, another a priest, another a mechanic (Daedalus, who lost his son Icarus while they were flying through the air).
 [dcccli] 127. “The circling nature”: the spheres.
-[dccclii] 131. “Quirinus,” or Romulus, was the son of such a poor father that a paternity was ascribed to the god Mars.
+[dccclii] 131. “Quirinus,” or Romulus, was the son of such a poor father that his paternity was ascribed to the god Mars.
 [dcccliii] 19-21. Answer me without waiting to be questioned.
 [dcccliv] 25. “In that part . . .”: the March of Treviso, in the northeast corner of Italy.
 [dccclv] 29. “A fiery brand”: Ezzelin (see the Argument).
 [dccclvi] 34. “The cause”: the influence of Venus.
-[dccclvii] 37. “This dear jewel’: Fulk of Marseilles, who reappears in line 67.
+[dccclvii] 37. “This dear jewel”: Fulk of Marseilles, who reappears in line 67.
 [dccclviii] 40. Five centuries shall pass. Dante probably thought the world would come to an end at about that time.
 [dccclix] 43. “The . . . rabble who dwell . . .”: the citizens of Treviso.
-[dccclx] 46-47. In 1314 the Paduans attacking Vicenza were defeated by Can onus of Verona.
+[dccclx] 46-47. In 1314 the Paduans attacking Vicenza were defeated by Can Grande of Verona.
 [dccclxi] 49. “And where . . .”: at Treviso.
 [dccclxii] 50. “One lordeth . . .”: Rizzardo, a powerful lord, who was to be murdered by an assassin.
 [dccclxiii] 52. “Its pastor”: the bishop of Feltro (see the Argument).
@@ -15493,7 +15439,7 @@ The Love that moves the sun and the other stars.
 [dccclxxi] 97-102. “Belus’s daughter”: Dido. All the following are examples of passionate love.
 [dccclxxii] 115. The story of Rahab, a harlot who hid Joshua’s spies, is related in Josh. 2.
 [dccclxxiii] 123. By lifting up both hands.
-[dccclxxiv] 127. “Thy city’: Florence, a plant of the devil.
+[dccclxxiv] 127. “Thy city”: Florence, a plant of the devil.
 [dccclxxv] 130. “The accursed flower”: see the Argument.
 [dccclxxvi] 134. “The Decretals” (Canon Law) are studied for financial profit.
 [dccclxxvii] 142. “Whoredom”: the unholy union of a corrupt Papacy and the Church.
@@ -15521,11 +15467,11 @@ The Love that moves the sun and the other stars.
 [dcccxcix] 140. “God’s bride”: the Church.
 [cm] 145. “The glorious wheel”: of twelve counseling prophets.
 [cmi] 31. “The spouse”: the Church, which Christ wedded on the Cross.
-[cmii] 37-38. “The one”: St. Francis of Assisi. “The other’: St. Dominic.
+[cmii] 37-38. “The one”: St. Francis of Assisi. “The other”: St. Dominic.
 [cmiii] 43. Assisi is situated between the river Tupino and the Chiascio; St. Ubald had his hermitage near by.
 [cmiv] 48. The little towns of “Nocera and Gualdo” “weep . . . for the . . . yoke” of the Apennines.
 [cmv] 50. This real “sun,” where Dante now is.
-[cmvi] 52-54. The Tuscan form for Assisi, “Ascesi” (which also means “I have risen’), is less fit a word than “Orient,” or Dayspring.
+[cmvi] 52-54. The Tuscan form for Assisi, “Ascesi” (which also means “I have risen”), is less fit a word than “Orient,” or Dayspring.
 [cmvii] 59. He espoused Lady Poverty.
 [cmviii] 61-62. Summoned before the episcopal court of Assisi, St. Francis stripped off his clothes.—‘Coram patre”: before his father.
 [cmix] 65. “She”: Poverty.—“Her first husband”: Christ.
@@ -15557,8 +15503,8 @@ The Love that moves the sun and the other stars.
 [cmxxxv] 112. “The wheel” is St. Francis. His track is deserted by the Franciscans.
 [cmxxxvi] 124-125. “Casale” and “Acquasparta”: the homes of the leaders of two Franciscan factions. “Scripture”: the Rule of St. Francis.
 [cmxxxvii] 130. Two early followers of St. Francis.
-[cmxxxviii] 133-134. “Hugh of St. Victor’: a famous theologian.—“Peter Mangiadore”: the author of a commentary on the Bible.—‘Peter of Spain,” a great logician, became Pope John XXI.
-[cmxxxix] 136-140. St. John “Chrysostom” was Metropolitan of Constantinople. St. Anselm, Archbishop of Canterbury, was a keen theologian.—‘Donat” was a grammarian.—‘Rabano”: a Biblical commentator.—“Joachim,” Abbot of Flora in Calabria, founded a new branch of the Cistercians.
+[cmxxxviii] 133-134. “Hugh of St. Victor”: a famous theologian.—“Peter Mangiadore”: the author of a commentary on the Bible.—“Peter of Spain,” a great logician, became Pope John XXI.
+[cmxxxix] 136-140. St. John “Chrysostom” was Metropolitan of Constantinople. St. Anselm, Archbishop of Canterbury, was a keen theologian.—“Donat” was a grammarian.—“Rabano”: a Biblical commentator.—“Joachim,” Abbot of Flora in Calabria, founded a new branch of the Cistercians.
 [cmxl] 7. “That Wain”: the Great Bear or Dipper.
 [cmxli] 10. “That bright horn”: the Little Bear.
 [cmxlii] 14. “Minos’ daughter”: Ariadne, whose crown was turned into a constellation.
@@ -15584,12 +15530,12 @@ The Love that moves the sun and the other stars.
 [cmlxii] 34. “From the . . . flame”: of Solomon.
 [cmlxiii] 36. “The angel”: Gabriel.
 [cmlxiv] 40-43. “Answereth”: is proportionate. “The vision”: of God.  “When . . .”: on the Judgment Day.
-[cmlxv] 52. The coal glows through the fame that envelops it.
+[cmlxv] 52. The coal glows through the flame that envelops it.
 [cmlxvi] 71. “Things”: stars, faint in the twilight.
 [cmlxvii] 98. “The Galaxy”: the Milky Way.
-[cmlxviii] 101-102. “The . . . sign’: the Cross. “Quadrants”: two diameters of a circle.
+[cmlxviii] 101-102. “The . . . sign”: the Cross. “Quadrants”: two diameters of a circle.
 [cmlxix] 114. “The particles”: the bits of dust dancing in a ray of sunshine in a dark room.
-[cmlxx] 131-134. “Those eyes’’ and “the quick seals of beauty” are Beatrice’s eyes, which become more potent from sphere to sphere.
+[cmlxx] 131-134. “Those eyes” and “the quick seals of beauty” are Beatrice’s eyes, which become more potent from sphere to sphere.
 [cmlxxi] 4. “Lyre”: the spirits of the Cross.
 [cmlxxii] 14. “A sudden blaze”: a meteor.
 [cmlxxiii] 22. The bright spirit did not go outside the Cross.
@@ -15631,7 +15577,7 @@ The Love that moves the sun and the other stars.
 [mix] 50. “By him who . . .”: Pope Boniface VIII.
 [mx] 62. “The crew”: the Whites, Dante’s fellow exiles.
 [mxi] 71. “The great Lombard”: Bartolommeo della Scala, whose shield bore a ladder and an eagle.
-[mxii] 76. “One there is’: Can Grande (see the Argument).
+[mxii] 76. “One there is”: Can Grande (see the Argument).
 [mxiii] 77. “This strong star”: Mars.
 [mxiv] 82. “The Gascon”: Pope Clement V. “Harry”: the Emperor Henry VII.
 [mxv] 110. “The most dear place”: Florence.
@@ -15639,7 +15585,7 @@ The Love that moves the sun and the other stars.
 [mxvii] 28. The fifth “tier” of the tree of the heavens is Mars.
 [mxviii] 36. As lightning flashes across a cloud.
 [mxix] 40. Judas “Maccabaeus” delivered his people from the tyranny of the Syrians.
-[mxx] 46-47. “William,” Count of Orange, is the hero of a group of Old French epics. “Rainouart”: a knight of Saracen birth, but baptised.  “Godfrey” of Bouillon: the leader of the first crusade. ‘Robert Guiscard”: a Norman conqueror.
+[mxx] 46-47. “William,” Count of Orange, is the hero of a group of Old French epics. “Rainouart”: a knight of Saracen birth, but baptised.  “Godfrey” of Bouillon: the leader of the first crusade. “Robert Guiscard”: a Norman conqueror.
 [mxxi] 61-63. Thus from an increase of Beatrice’s loveliness I inferred that I had risen to a greater and swifter sphere.
 [mxxii] 68. The change is from the red light of Mars to the whiteness of Jupiter.
 [mxxiii] 82. “O Goddess Pegasea”: O Muse.
@@ -15653,7 +15599,7 @@ The Love that moves the sun and the other stars.
 [mxxxi] 40. “He who . . .”: God.
 [mxxxii] 46. “The first proud being”: Lucifer.
 [mxxxiii] 48. “The light”: of grace.
-[mxxxiv] 56. “Its origin’: the divine Mind.
+[mxxxiv] 56. “Its origin”: the divine Mind.
 [mxxxv] 83. If you mortals had not the Bible to guide you, there would be no end to your sophistries.
 [mxxxvi] 115-116. “Albert”: of Austria. “That one”: the devastation of Bohemia in 1304. “The accusing pen”: of the recording angel.
 [mxxxvii] 118-120. Philip the Fair, who had debased the coinage of the realm, died from a fall occasioned by a wild boar.
@@ -15685,9 +15631,9 @@ The Love that moves the sun and the other stars.
 [mlxiii] 18. “This mirror”: Saturn.
 [mlxiv] 26. “Its bright regent” is Saturn, who ruled in the Golden Age.
 [mlxv] 59. “Symphony”: the hymns sung in the preceding spheres.
-[mlxvi] 107-109. “Crags”: the northern part of the Apennines. “Catria’: a spur between Urbino and Gubbio.
+[mlxvi] 107-109. “Crags”: the northern part of the Apennines. “Catria”: a spur between Urbino and Gubbio.
 [mlxvii] 122. The monastery of Santa Maria, near Ravenna.
-[mlxviii] 125. “The hat’: the cardinal’s hat.
+[mlxviii] 125. “The hat”: the cardinal’s hat.
 [mlxix] 127-128. “Cephas”: St. Peter. “The great Vessel”: St. Paul.
 [mlxx] 37-39. St. Benedict in 528 erected two chapels in a temple of Apollo, and converted the heathen.
 [mlxxi] 49. St. Macarius of Alexandria and St. Romualdus of Ravenna.
@@ -15702,7 +15648,7 @@ The Love that moves the sun and the other stars.
 [mlxxx] 29. “One Sun”: Christ.
 [mlxxxi] 32. “Substance”: the humanity of Christ.
 [mlxxxii] 56. “Polyhymnia and her sisters”: the Muses.
-[mlxxxiii] 73-74. “The Rose”: Mary. “The lilies’: the Apostles.
+[mlxxxiii] 73-74. “The Rose”: Mary. “The lilies”: the Apostles.
 [mlxxxiv] 88. “The name”: the mention of Mary.
 [mlxxxv] 94. The “fire” is perhaps the Archangel Gabriel.
 [mlxxxvi] 101. “The Sapphire” is Mary.
@@ -15713,9 +15659,8 @@ The Love that moves the sun and the other stars.
 [mxci] 138-139. With the souls of the Old and the New Covenant, the Prophets and the Apostles. “He who . . .”: St. Peter.
 [mxcii] 8-9. Give him a few drops from the fount of Truth, upon which his thought is bent.
 [mxciii] 18. “Affluence”: gladness.
-[mxciv] 39. Through faith Peter “walked on the water, to go to Jesus” (Matt.
-14:46).
-[mxcv] 46. “The bachelor’: the candidate for a degree of doctor in theology.
+[mxciv] 39. Through faith Peter “walked on the water, to go to Jesus” (Matt. 14:29).
+[mxcv] 46. “The bachelor”: the candidate for a degree of doctor in theology.
 [mxcvi] 62. St. Peter’s “dear brother” is St. Paul.
 [mxcvii] 68-69. Why did St. Paul call Faith first a “substance” and then a “proof”?
 [mxcviii] 70-78. Faith, from the human point of view, is a belief; and, in theological questions, takes the place of evidence in worldly syllogisms.
@@ -15752,7 +15697,7 @@ The Love that moves the sun and the other stars.
 [mcxxix] 17. Rev. 1:8: “I am Alpha and Omega, the beginning and the ending, saith the Lord.”
 [mcxxx] 26. By revealed Truth.
 [mcxxxi] 31. Since love is attracted by goodness, and all goodness is in God, he must be the primal object of love.
-[mcxxxii] 38-40. “Him who . . .”: Aristotle. “The Author’: God.
+[mcxxxii] 38-40. “Him who . . .”: Aristotle. “The Author”: God.
 [mcxxxiii] 43. “Thy prelude”: probably the Gospel of John.
 [mcxxxiv] 53. “The Eagle of Christ” is John.
 [mcxxxv] 84. “The first soul”: Adam.
@@ -15768,7 +15713,7 @@ The Love that moves the sun and the other stars.
 [mcxlv] 22. “He who . . .”: Pope Boniface VIII.
 [mcxlvi] 26-27. “The Arch-Renegade”: Satan.—“Down there”: in Hell.
 [mcxlvii] 40-46. “The spouse of Christ”: the Church.—Linus and Cletus were Bishops of Rome.—Sixtus and the others were also martyrs.
-[mcxlviii] 47. The two parts “of Christ’s flock” are the Guelfs and the Ghibel lines.
+[mcxlviii] 47. The two parts “of Christ’s flock” are the Guelfs and the Ghibellines.
 [mcxlix] 58. See the Argument.
 [mcl] 61. Scipio the younger, who conquered Hannibal.
 [mcli] 67-72. These lines present the strange picture of an inverted snowstorm.—“The heavenly Goat” is Capricorn.
@@ -15786,13 +15731,13 @@ The Love that moves the sun and the other stars.
 [mclxiii] 70. “This one”: the Primum Mobile.
 [mclxiv] 77. “Of great [size] with more [intelligence].”
 [mclxv] 80. The northeast wind, the clearest of Boreas’ threefold blast.
-[mclxvi] 90. “The sparks’: the individual angels.
+[mclxvi] 90. “The sparks”: the individual angels.
 [mclxvii] 92. “The doubling”: see the Argument.
 [mclxviii] 100. “Their own bonds”: the respective rings.
 [mclxix] 109-114. Grace begets good will, together they constitute merit, merit determines the degree of sight, and sight is the source of love.
 [mclxx] 116-117. “No . . . night-frost of Aries”: no autumn.
 [mclxxi] 130-138. “Dionysius” the Areopagite, the great authority for the orders of the angels, was thought to have derived his information from St. Paul (cf. line 138). St. Gregory (line 133) arranged the angelic orders differently.
-[mclxxii] 1-6. At the vernal equinox, at dawn and at sunset. the sun and the moon (“Latona’s children”) are exactly balanced for an instant on opposite sides of the horizon.
+[mclxxii] 1-6. At the vernal equinox, at dawn and at sunset, the sun and the moon (“Latona’s children”) are exactly balanced for an instant on opposite sides of the horizon.
 [mclxxiii] 12. God is the centre of all our conceptions of space and time.
 [mclxxiv] 18. “In new loves”: in the creation of the angels.
 [mclxxv] 23. The angels, the earth, and the heavens (see the Argument).
@@ -15800,7 +15745,7 @@ The Love that moves the sun and the other stars.
 [mclxxvii] 37. “From Jerome . . .”: see the Argument.
 [mclxxviii] 45. “The Movers”: the angels.
 [mclxxix] 49. The rebellious angels fell before one could count to twenty; the others accepted grace.
-[mclxxx] 56. “Of him’: Satan.
+[mclxxx] 56. “Of him”: Satan.
 [mclxxxi] 79-81. Nothing ever intervenes between their minds and the image of all things in God.
 [mclxxxii] 97-102. To explain the darkness at the Crucifixion, some say that the moon left its course to make an eclipse; the truth is that the sun hid its own rays.
 [mclxxxiii] 118. “Such a bird”: the devil, waiting for the preacher's soul.
@@ -15816,7 +15761,7 @@ The Love that moves the sun and the other stars.
 [mcxciii] 137. Henry VII attempted to restore the balance of power and the Imperial authority in Italy (see the Argument).
 [mcxciv] 142-144. “The prefect”: Pope Clement V (see the Argument).—“His”: Henry's.
 [mcxcv] 146-148. Clement V shall fall into the eighth circle of Hell, where simonists are punished.—He “of Anagna” is Boniface VIII.
-[mcxcvi] 2-4. “That sacred soldiery”: the Redeemed.—‘‘The other host’: the angels.
+[mcxcvi] 2-4. “That sacred soldiery”: the Redeemed.—“The other host”: the angels.
 [mcxcvii] 31-33. “Such land”: the North. “Helice” and “her . . . son” Arcas are the Great and the Little Bear.
 [mcxcviii] 35. “The Lateran”: the old Papal palace in Rome.
 [mcxcix] 60. “An elder”: St. Bernard, a great mystic of the twelfth century, famous for his devotion to the Blessed Virgin.
@@ -15831,7 +15776,7 @@ The Love that moves the sun and the other stars.
 [mccviii] 11. “Ancestress”: Ruth; “the singer”: David.
 [mccix] 12. “Miserere mei”: “Have mercy upon me.”
 [mccx] 19. On one side of the partition are the Hebrews (line 24), on the other the Christians (line 27).
-[mccxi] 33. “In Hell’: the Limbus.
+[mccxi] 33. “In Hell”: the Limbus.
 [mccxii] 38. “Either aspect”: the Old Church and the New.
 [mccxiii] 43-45. “But by another's”: one’s parents. “Released”: from the flesh.  These are the spirits of children who died before the age of moral responsibility.
 [mccxiv] 49. Dante is wondering why some have higher seats than others. He learns that the degree of beatitude is determined by predestination.
@@ -15841,9 +15786,9 @@ The Love that moves the sun and the other stars.
 [mccxviii] 89. “The sacred minds”: the angels.
 [mccxix] 94. “That Love which . . .”: the angel Gabriel.
 [mccxx] 119. “Empress”: Mary.
-[mccxxi] 122-124. “That father’: Adam. “That ancient Father’: St. Peter.
+[mccxxi] 122-124. “That father”: Adam. “That ancient Father”: St. Peter.
 [mccxxii] 127-129. St. John, the author of the Apocalypse. “Spouse”: the Church. “The nails and . . . the lance”: of Christ’s Passion.
-[mccxxiii] 130-131. “By him”: Peter. “By the other’: Adam. “That leader”: Moses.
+[mccxxiii] 130-131. “By him”: Peter. “By the other”: Adam. “That leader”: Moses.
 [mccxxiv] 133. “Anna”: St. Anna, mother of Mary.
 [mccxxv] 137. “The lady of thy troth”: Beatrice.
 [mccxxvi] 148. “From her bounty”: the Blessed Virgin’s.
