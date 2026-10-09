@@ -113,4 +113,14 @@ visibility: visible;
 opacity: 1;
 }
 
+.squares td {
+  vertical-align: top;
+  padding: 0 1em 0.8em 0;
+}
+
+.square {
+  font-family: "Courier New", Courier, monospace;
+  white-space: pre;
+  line-height: 1.2;
+}
 
